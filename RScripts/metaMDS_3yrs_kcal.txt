@@ -1,0 +1,93 @@
+
+
+
+Square root transformation
+Wisconsin double standardization
+Run 0 stress 0.2177133 
+Run 1 stress 0.232973 
+Run 2 stress 0.2443246 
+Run 3 stress 0.2433422 
+Run 4 stress 0.2398481 
+Run 5 stress 0.2493558 
+Run 6 stress 0.2259357 
+Run 7 stress 0.4192698 
+Run 8 stress 0.2370185 
+Run 9 stress 0.2357976 
+Run 10 stress 0.2248492 
+Run 11 stress 0.2521919 
+Run 12 stress 0.2265644 
+Run 13 stress 0.2303115 
+Run 14 stress 0.2329919 
+Run 15 stress 0.2261306 
+Run 16 stress 0.419253 
+Run 17 stress 0.2432307 
+Run 18 stress 0.2278879 
+Run 19 stress 0.2238997 
+Run 20 stress 0.2420454 
+*** No convergence -- monoMDS stopping criteria:
+     1: no. of iterations >= maxit
+    19: stress ratio > sratmax
+metaMDS Output
+
+3 years k=2
+
+
+
+Square root transformation
+Wisconsin double standardization
+Run 0 stress 0.2177133 
+Run 1 stress 0.2430146 
+Run 2 stress 0.232678 
+Run 3 stress 0.2238552 
+Run 4 stress 0.236921 
+Run 5 stress 0.2339531 
+Run 6 stress 0.2373094 
+Run 7 stress 0.2472645 
+Run 8 stress 0.2461186 
+Run 9 stress 0.2421723 
+Run 10 stress 0.2369916 
+Run 11 stress 0.2196324 
+Run 12 stress 0.2384704 
+Run 13 stress 0.2401202 
+Run 14 stress 0.2404583 
+Run 15 stress 0.2298371 
+Run 16 stress 0.2335451 
+Run 17 stress 0.2344039 
+Run 18 stress 0.2299838 
+Run 19 stress 0.2274178 
+Run 20 stress 0.2224779 
+*** No convergence -- monoMDS stopping criteria:
+     2: no. of iterations >= maxit
+    18: stress ratio > sratmax
+metaMDS Output
+
+3 years k=2
+
+
+
+Square root transformation
+Wisconsin double standardization
+Run 0 stress 0.2177133 
+Run 1 stress 0.2474675 
+Run 2 stress 0.2377468 
+Run 3 stress 0.2318331 
+Run 4 stress 0.2208056 
+Run 5 stress 0.2366608 
+Run 6 stress 0.2494136 
+Run 7 stress 0.2419671 
+Run 8 stress 0.2266043 
+Run 9 stress 0.2377403 
+Run 10 stress 0.2339918 
+Run 11 stress 0.2301826 
+Run 12 stress 0.2436654 
+Run 13 stress 0.2484754 
+Run 14 stress 0.2381309 
+Run 15 stress 0.2389098 
+Run 16 stress 0.2356087 
+Run 17 stress 0.2242991 
+Run 18 stress 0.223616 
+Run 19 stress 0.2416519 
+Run 20 stress 0.2341037 
+*** No convergence -- monoMDS stopping criteria:
+     4: no. of iterations >= maxit
+    16: stress ratio > sratmax

@@ -1,0 +1,164 @@
+
+<html>
+<head>
+<style>
+ul.pagination {
+    display: inline-block;
+    padding: 5px;
+    margin: 0 5px;
+}
+
+ul.pagination li {display: inline;}
+
+ul.pagination li a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+    border: 1px solid white;
+ font: bold 18px calibri, sans-serif;
+}
+
+ul.pagination li a.active {
+    background-color: #5b703c;
+    color: white;
+    border: 1px solid white;
+}
+
+ul.pagination li a:hover:not(.active) {
+background-color: #777;
+}
+
+div.center {
+ text-align: center;
+ margin-left: 13%;
+}
+
+.header {
+    background-color: #5b703c;
+    color: #ffffff;
+    padding: 2px;
+    margin: 0px;
+    font: bold 20px calibri, sans-serif;
+}
+
+body.navbar {
+    margin: 0;
+}
+
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 13%;
+    background-color: white;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+li a {
+    display: block;
+    color: black;
+    font: bold 18px calibri, sans-serif;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #777;
+    color: white;
+}
+
+.active {
+    background-color: #5b703c;
+    color: white;
+}
+
+p {
+    display: block;
+    color: black;
+	font: 16px calibri, sans-serif;
+    text-align: left;
+    padding: 1px;
+    text-decoration: none;
+}
+
+</style>
+</head>
+
+<body>
+
+
+<div class="header">
+<h1>  The Changing Global Diet</h1>
+</div>
+
+<ul id="navbar" class="navbar">
+  <li><a class="active" href="http://skammlade.github.io/projects/tableau/TheChangingGlobalDiet.html">The Changing Global Diet Story</a></li>
+  <li><a href="http://skammlade.github.io/projects/tableau/CountryExploration.html">Country Exploration</a></li>
+  <li><a href="http://skammlade.github.io/projects/tableau/CountryComparison.html">Country Comparison</a></li>
+  <li><a href="http://skammlade.github.io/projects/tableau/CropTrends.html">Crop Trends</a></li>
+  <li><a href="http://skammlade.github.io/projects/tableau/NMDSInteractive.html">Increasing Homogeneity</a></li>
+</ul>
+
+
+<div class="center">
+  <ul id="pagination" class="pagination">
+    <li><a href="http://skammlade.github.io/projects/tableau/pagination/Story_GlobalSimilarity.html">«</a></li>
+	<li><a href="http://skammlade.github.io/projects/tableau/TheChangingGlobalDiet.html">1</a></li>
+    <li><a href="http://skammlade.github.io/projects/tableau/pagination/Story_Methods.html">2</a></li>
+    <li><a href="http://skammlade.github.io/projects/tableau/pagination/Story_Map.html">3</a></li>
+    <li><a href="http://skammlade.github.io/projects/tableau/pagination/Story_GlobalTrend.html">4</a></li>
+    <li><a href="http://skammlade.github.io/projects/tableau/pagination/Story_GlobalRichness.html">5</a></li>
+	<li><a href="http://skammlade.github.io/projects/tableau/pagination/Story_SMRichness.html">6</a></li>
+	<li><a href="http://skammlade.github.io/projects/tableau/pagination/Story_GlobalEvenness.html">7</a></li>
+	<li><a href="http://skammlade.github.io/projects/tableau/pagination/Story_SMEvenness.html">8</a></li>
+	<li><a href="http://skammlade.github.io/projects/tableau/pagination/Story_GlobalDominance.html">9</a></li>
+	<li><a href="http://skammlade.github.io/projects/tableau/pagination/Story_SMDominance.html">10</a></li>
+	<li><a href="http://skammlade.github.io/projects/tableau/pagination/Story_GlobalSimilarity.html">11</a></li>
+	<li><a class="active" href="http://skammlade.github.io/projects/tableau/pagination/Story_SMSimilarity.html">12</a></li>
+    <li><a href="http://skammlade.github.io/projects/tableau/pagination/Story_SMSimilarity.html">»</a></li>
+  </ul>
+</div>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<div class='tableauPlaceholder' id='viz1479364722166' style="margin-left:13%;padding:1px 16px;height:755px;">
+		<noscript><a href='#'><img alt='The Changing Global Diet ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;Story11_SMSimilarity&#47;11_SMSim&#47;1_rss.png' style='border: none'></a></noscript><object class='tableauViz' style='display:none;'>
+			<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F'>
+			 <param name='site_root' value=''>
+			<param name='name' value='Story11_SMSimilarity&#47;11_SMSim'>
+			<param name='tabs' value='no'>
+			<param name='toolbar' value='yes'>
+			<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;Story11_SMSimilarity&#47;11_SMSim&#47;1.png'>
+			 <param name='animate_transition' value='yes'>
+			<param name='display_static_image' value='yes'>
+			<param name='display_spinner' value='yes'>
+			<param name='display_overlay' value='yes'>
+			<param name='display_count' value='yes'>
+		</object>
+	</div>
+	<script type='text/javascript'>
+	                   var divElement = document.getElementById('viz1479364722166');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1370px';vizElement.style.height='837px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+	</script>
+</body>
+</html>
+
+<div id="References" style="margin-left:13%;padding:1px;">
+		
+		<p>by Sara Kammlade, Colin K. Khoury, Anne Bjorkman, and Carlos Navarro-Racines. <a href="https://ciat.cgiar.org/"target="_blank">International Center for Tropical Agriculture (CIAT)</a>. Version 1.0 (October 2016). 
+		</p>
+		<p>This work is licensed under a Creative Commons Attribution 4.0 International (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>). 
+		</p>
+		<p>This work is associated with the publication: &#13;&#10;
+		Khoury CK, Bjorkman AD, Dempewolf H, Ramírez-Villegas J, Guarino L, Jarvis A, Rieseberg LH and Struik PC (2014). Increasing homogeneity in global food supplies and the implications for food security. PNAS 111(11): 4001-4006. doi: 10.1073/pnas.1313490111. Available online at: <a href="http://dx.doi.org/10.1073/pnas.1313490111" target="_blank">http://dx.doi.org/10.1073/pnas.1313490111. 
+		</p>
+		
+		</div>

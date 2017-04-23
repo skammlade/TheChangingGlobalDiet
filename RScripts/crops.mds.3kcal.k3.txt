@@ -1,0 +1,61 @@
+
+Call:
+metaMDS(comm = data4nmds.3kcal, distance = "bray", k = 3, trymax = 20,      stratmax = 0.9999999999) 
+
+global Multidimensional Scaling using monoMDS
+
+Data:     wisconsin(sqrt(data4nmds.3kcal)) 
+Distance: bray 
+
+Dimensions: 3 
+Stress:     0.1573436 
+Stress type 1, weak ties
+Two convergent solutions found after 20 tries
+Scaling: centring, PC rotation, halfchange scaling 
+Species: expanded scores based on ‘wisconsin(sqrt(data4nmds.3kcal))’ 
+
+null device 
+          1 
+
+Call:
+metaMDS(comm = data4nmds.3kcal, distance = "bray", k = 3, trymax = 20,      stratmax = 0.9999999999) 
+
+global Multidimensional Scaling using monoMDS
+
+Data:     wisconsin(sqrt(data4nmds.3kcal)) 
+Distance: bray 
+
+Dimensions: 3 
+Stress:     0.1573436 
+Stress type 1, weak ties
+Two convergent solutions found after 20 tries
+Scaling: centring, PC rotation, halfchange scaling 
+Species: expanded scores based on ‘wisconsin(sqrt(data4nmds.3kcal))’ 
+
+Square root transformation
+Wisconsin double standardization
+Run 0 stress 0.2176709 
+Run 1 stress 0.2350874 
+Run 2 stress 0.2291469 
+Run 3 stress 0.2308002 
+Run 4 stress 0.2404722 
+Run 5 stress 0.2229159 
+Run 6 stress 0.2406928 
+Run 7 stress 0.2386974 
+Run 8 stress 0.2399046 
+Run 9 stress 0.2260286 
+Run 10 stress 0.2232127 
+Run 11 stress 0.2490486 
+Run 12 stress 0.2247303 
+Run 13 stress 0.2329048 
+Run 14 stress 0.22394 
+Run 15 stress 0.2316669 
+Run 16 stress 0.2421543 
+Run 17 stress 0.2395937 
+Run 18 stress 0.2363053 
+Run 19 stress 0.2482209 
+Run 20 stress 0.244358 
+*** No convergence -- monoMDS stopping criteria:
+     3: no. of iterations >= maxit
+    17: stress ratio > sratmax
+[1] 0.05103124 0.08147832 0.08712348 0.09206752 0.09421157 0.09425322

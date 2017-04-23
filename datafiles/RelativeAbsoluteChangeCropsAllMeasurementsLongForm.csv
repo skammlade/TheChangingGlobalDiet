@@ -1,0 +1,433 @@
+ItemName,ElementName,UnitName,Include,Change,Value
+Alcoholic beverages,Calories,kcal/capita/day,,absoluteChange,0.378
+Alcoholic beverages,Calories,kcal/capita/day,,relativeChange,0.128
+Alcoholic beverages,Fat,g/capita/day,,absoluteChange,0
+Alcoholic beverages,Fat,g/capita/day,,relativeChange,0
+Alcoholic beverages,Food Weight,g/capita/day,,absoluteChange,0.392
+Alcoholic beverages,Food Weight,g/capita/day,,relativeChange,0.109
+Alcoholic beverages,Protein,g/capita/day,,absoluteChange,0
+Alcoholic beverages,Protein,g/capita/day,,relativeChange,0
+Animal Products (Total),Calories,kcal/capita/day,1,absoluteChange,0.323
+Animal Products (Total),Calories,kcal/capita/day,1,relativeChange,0.083
+Animal Products (Total),Fat,g/capita/day,1,absoluteChange,0.271
+Animal Products (Total),Fat,g/capita/day,1,relativeChange,-0.15
+Animal Products (Total),Food Weight,g/capita/day,1,absoluteChange,0.415
+Animal Products (Total),Food Weight,g/capita/day,1,relativeChange,0.127
+Animal Products (Total),Protein,g/capita/day,1,absoluteChange,0.501
+Animal Products (Total),Protein,g/capita/day,1,relativeChange,0.188
+Apples,Calories,kcal/capita/day,,absoluteChange,0.651
+Apples,Calories,kcal/capita/day,,relativeChange,0.351
+Apples,Fat,g/capita/day,,absoluteChange,0.232
+Apples,Fat,g/capita/day,,relativeChange,-0.176
+Apples,Food Weight,g/capita/day,1,absoluteChange,0.983
+Apples,Food Weight,g/capita/day,1,relativeChange,0.579
+Apples,Protein,g/capita/day,,absoluteChange,0.293
+Apples,Protein,g/capita/day,,relativeChange,0.023
+Bananas & plantains,Calories,kcal/capita/day,1,absoluteChange,0.036
+Bananas & plantains,Calories,kcal/capita/day,1,relativeChange,-0.153
+Bananas & plantains,Fat,g/capita/day,,absoluteChange,0.091
+Bananas & plantains,Fat,g/capita/day,,relativeChange,-0.271
+Bananas & plantains,Food Weight,g/capita/day,1,absoluteChange,0.049
+Bananas & plantains,Food Weight,g/capita/day,1,relativeChange,-0.165
+Bananas & plantains,Protein,g/capita/day,,absoluteChange,0.078
+Bananas & plantains,Protein,g/capita/day,,relativeChange,-0.147
+Barley & beer,Calories,kcal/capita/day,1,absoluteChange,0.243
+Barley & beer,Calories,kcal/capita/day,1,relativeChange,0.017
+Barley & beer,Fat,g/capita/day,,absoluteChange,-0.59
+Barley & beer,Fat,g/capita/day,,relativeChange,-0.726
+Barley & beer,Food Weight,g/capita/day,1,absoluteChange,0.784
+Barley & beer,Food Weight,g/capita/day,1,relativeChange,0.421
+Barley & beer,Protein,g/capita/day,,absoluteChange,-0.126
+Barley & beer,Protein,g/capita/day,,relativeChange,-0.308
+Beans,Calories,kcal/capita/day,1,absoluteChange,0.049
+Beans,Calories,kcal/capita/day,1,relativeChange,-0.141
+Beans,Fat,g/capita/day,,absoluteChange,0.061
+Beans,Fat,g/capita/day,,relativeChange,-0.291
+Beans,Food Weight,g/capita/day,,absoluteChange,0.049
+Beans,Food Weight,g/capita/day,,relativeChange,-0.165
+Beans,Protein,g/capita/day,1,absoluteChange,0.056
+Beans,Protein,g/capita/day,1,relativeChange,-0.165
+Cassava,Calories,kcal/capita/day,1,absoluteChange,-0.221
+Cassava,Calories,kcal/capita/day,1,relativeChange,-0.363
+Cassava,Fat,g/capita/day,,absoluteChange,-0.26
+Cassava,Fat,g/capita/day,,relativeChange,-0.505
+Cassava,Food Weight,g/capita/day,1,absoluteChange,-0.226
+Cassava,Food Weight,g/capita/day,1,relativeChange,-0.384
+Cassava,Protein,g/capita/day,,absoluteChange,-0.211
+Cassava,Protein,g/capita/day,,relativeChange,-0.375
+Cereals (other),Calories,kcal/capita/day,,absoluteChange,-0.52
+Cereals (other),Calories,kcal/capita/day,,relativeChange,-0.607
+Cereals (other),Fat,g/capita/day,,absoluteChange,-0.628
+Cereals (other),Fat,g/capita/day,,relativeChange,-0.751
+Cereals (other),Food Weight,g/capita/day,,absoluteChange,-0.497
+Cereals (other),Food Weight,g/capita/day,,relativeChange,-0.6
+Cereals (other),Protein,g/capita/day,,absoluteChange,-0.51
+Cereals (other),Protein,g/capita/day,,relativeChange,-0.612
+Citrus (other),Calories,kcal/capita/day,,absoluteChange,0.415
+Citrus (other),Calories,kcal/capita/day,,relativeChange,0.158
+Citrus (other),Fat,g/capita/day,,absoluteChange,0
+Citrus (other),Fat,g/capita/day,,relativeChange,-0.331
+Citrus (other),Food Weight,g/capita/day,,absoluteChange,0.544
+Citrus (other),Food Weight,g/capita/day,,relativeChange,0.229
+Citrus (other),Protein,g/capita/day,,absoluteChange,0.214
+Citrus (other),Protein,g/capita/day,,relativeChange,-0.039
+Cloves,Calories,kcal/capita/day,,absoluteChange,6.333
+Cloves,Calories,kcal/capita/day,,relativeChange,5.001
+Cloves,Fat,g/capita/day,,absoluteChange,3
+Cloves,Fat,g/capita/day,,relativeChange,1.675
+Cloves,Food Weight,g/capita/day,,absoluteChange,5.75
+Cloves,Food Weight,g/capita/day,,relativeChange,4.374
+Cloves,Protein,g/capita/day,,absoluteChange,0
+Cloves,Protein,g/capita/day,,relativeChange,0
+Cocoa beans,Calories,kcal/capita/day,,absoluteChange,3.552
+Cocoa beans,Calories,kcal/capita/day,,relativeChange,2.724
+Cocoa beans,Fat,g/capita/day,1,absoluteChange,3.704
+Cocoa beans,Fat,g/capita/day,1,relativeChange,2.146
+Cocoa beans,Food Weight,g/capita/day,,absoluteChange,1.646
+Cocoa beans,Food Weight,g/capita/day,,relativeChange,1.107
+Cocoa beans,Protein,g/capita/day,,absoluteChange,1.751
+Cocoa beans,Protein,g/capita/day,,relativeChange,1.177
+Coconuts,Calories,kcal/capita/day,1,absoluteChange,-0.212
+Coconuts,Calories,kcal/capita/day,1,relativeChange,-0.355
+Coconuts,Fat,g/capita/day,1,absoluteChange,-0.231
+Coconuts,Fat,g/capita/day,1,relativeChange,-0.485
+Coconuts,Food Weight,g/capita/day,1,absoluteChange,-0.137
+Coconuts,Food Weight,g/capita/day,1,relativeChange,-0.313
+Coconuts,Protein,g/capita/day,,absoluteChange,-0.116
+Coconuts,Protein,g/capita/day,,relativeChange,-0.301
+Coffee,Calories,kcal/capita/day,,absoluteChange,0.878
+Coffee,Calories,kcal/capita/day,,relativeChange,0.537
+Coffee,Fat,g/capita/day,,absoluteChange,0
+Coffee,Fat,g/capita/day,,relativeChange,0
+Coffee,Food Weight,g/capita/day,,absoluteChange,0.86
+Coffee,Food Weight,g/capita/day,,relativeChange,0.481
+Coffee,Protein,g/capita/day,,absoluteChange,0.534
+Coffee,Protein,g/capita/day,,relativeChange,0.214
+Cottonseed oil,Calories,kcal/capita/day,,absoluteChange,-0.396
+Cottonseed oil,Calories,kcal/capita/day,,relativeChange,-0.506
+Cottonseed oil,Fat,g/capita/day,1,absoluteChange,-0.399
+Cottonseed oil,Fat,g/capita/day,1,relativeChange,-0.598
+Cottonseed oil,Food Weight,g/capita/day,,absoluteChange,-0.399
+Cottonseed oil,Food Weight,g/capita/day,,relativeChange,-0.522
+Cottonseed oil,Protein,g/capita/day,,absoluteChange,0
+Cottonseed oil,Protein,g/capita/day,,relativeChange,0
+Dates,Calories,kcal/capita/day,,absoluteChange,-0.037
+Dates,Calories,kcal/capita/day,,relativeChange,-0.212
+Dates,Fat,g/capita/day,,absoluteChange,-0.078
+Dates,Fat,g/capita/day,,relativeChange,-0.384
+Dates,Food Weight,g/capita/day,,absoluteChange,-0.042
+Dates,Food Weight,g/capita/day,,relativeChange,-0.238
+Dates,Protein,g/capita/day,,absoluteChange,-0.069
+Dates,Protein,g/capita/day,,relativeChange,-0.263
+Fermented beverages,Calories,kcal/capita/day,,absoluteChange,-0.317
+Fermented beverages,Calories,kcal/capita/day,,relativeChange,-0.441
+Fermented beverages,Fat,g/capita/day,,absoluteChange,0
+Fermented beverages,Fat,g/capita/day,,relativeChange,-0.331
+Fermented beverages,Food Weight,g/capita/day,1,absoluteChange,-0.323
+Fermented beverages,Food Weight,g/capita/day,1,relativeChange,-0.461
+Fermented beverages,Protein,g/capita/day,,absoluteChange,-0.281
+Fermented beverages,Protein,g/capita/day,,relativeChange,-0.431
+Fruits (other),Calories,kcal/capita/day,1,absoluteChange,0.17
+Fruits (other),Calories,kcal/capita/day,1,relativeChange,-0.043
+Fruits (other),Fat,g/capita/day,,absoluteChange,0.24
+Fruits (other),Fat,g/capita/day,,relativeChange,-0.171
+Fruits (other),Food Weight,g/capita/day,1,absoluteChange,0.217
+Fruits (other),Food Weight,g/capita/day,1,relativeChange,-0.031
+Fruits (other),Protein,g/capita/day,,absoluteChange,0.166
+Fruits (other),Protein,g/capita/day,,relativeChange,-0.077
+Grapefruit,Calories,kcal/capita/day,,absoluteChange,2.054
+Grapefruit,Calories,kcal/capita/day,,relativeChange,1.499
+Grapefruit,Fat,g/capita/day,,absoluteChange,3.667
+Grapefruit,Fat,g/capita/day,,relativeChange,2.12
+Grapefruit,Food Weight,g/capita/day,,absoluteChange,1.923
+Grapefruit,Food Weight,g/capita/day,,relativeChange,1.327
+Grapefruit,Protein,g/capita/day,,absoluteChange,2.143
+Grapefruit,Protein,g/capita/day,,relativeChange,1.487
+Grapes & wine,Calories,kcal/capita/day,,absoluteChange,-0.089
+Grapes & wine,Calories,kcal/capita/day,,relativeChange,-0.255
+Grapes & wine,Fat,g/capita/day,,absoluteChange,-0.003
+Grapes & wine,Fat,g/capita/day,,relativeChange,-0.334
+Grapes & wine,Food Weight,g/capita/day,1,absoluteChange,-0.079
+Grapes & wine,Food Weight,g/capita/day,1,relativeChange,-0.266
+Grapes & wine,Protein,g/capita/day,,absoluteChange,-0.095
+Grapes & wine,Protein,g/capita/day,,relativeChange,-0.284
+Groundnut,Calories,kcal/capita/day,1,absoluteChange,-0.064
+Groundnut,Calories,kcal/capita/day,1,relativeChange,-0.234
+Groundnut,Fat,g/capita/day,1,absoluteChange,-0.102
+Groundnut,Fat,g/capita/day,1,relativeChange,-0.4
+Groundnut,Food Weight,g/capita/day,,absoluteChange,-0.013
+Groundnut,Food Weight,g/capita/day,,relativeChange,-0.215
+Groundnut,Protein,g/capita/day,1,absoluteChange,0.222
+Groundnut,Protein,g/capita/day,1,relativeChange,-0.033
+Lemons & limes,Calories,kcal/capita/day,,absoluteChange,0.454
+Lemons & limes,Calories,kcal/capita/day,,relativeChange,0.19
+Lemons & limes,Fat,g/capita/day,,absoluteChange,0.088
+Lemons & limes,Fat,g/capita/day,,relativeChange,-0.273
+Lemons & limes,Food Weight,g/capita/day,,absoluteChange,0.495
+Lemons & limes,Food Weight,g/capita/day,,relativeChange,0.191
+Lemons & limes,Protein,g/capita/day,,absoluteChange,1.202
+Lemons & limes,Protein,g/capita/day,,relativeChange,0.743
+Maize,Calories,kcal/capita/day,1,absoluteChange,0.182
+Maize,Calories,kcal/capita/day,1,relativeChange,-0.033
+Maize,Fat,g/capita/day,1,absoluteChange,0.733
+Maize,Fat,g/capita/day,1,relativeChange,0.159
+Maize,Food Weight,g/capita/day,1,absoluteChange,0.16
+Maize,Food Weight,g/capita/day,1,relativeChange,-0.076
+Maize,Protein,g/capita/day,1,absoluteChange,0.111
+Maize,Protein,g/capita/day,1,relativeChange,-0.121
+Millets,Calories,kcal/capita/day,1,absoluteChange,-0.314
+Millets,Calories,kcal/capita/day,1,relativeChange,-0.438
+Millets,Fat,g/capita/day,,absoluteChange,-0.298
+Millets,Fat,g/capita/day,,relativeChange,-0.53
+Millets,Food Weight,g/capita/day,1,absoluteChange,-0.308
+Millets,Food Weight,g/capita/day,1,relativeChange,-0.449
+Millets,Protein,g/capita/day,1,absoluteChange,-0.332
+Millets,Protein,g/capita/day,1,relativeChange,-0.471
+Miscellaneous,Calories,kcal/capita/day,,absoluteChange,9.694
+Miscellaneous,Calories,kcal/capita/day,,relativeChange,7.751
+Miscellaneous,Fat,g/capita/day,,absoluteChange,20.948
+Miscellaneous,Fat,g/capita/day,,relativeChange,13.676
+Miscellaneous,Food Weight,g/capita/day,,absoluteChange,0
+Miscellaneous,Food Weight,g/capita/day,,relativeChange,0
+Miscellaneous,Protein,g/capita/day,,absoluteChange,9.465
+Miscellaneous,Protein,g/capita/day,,relativeChange,7.281
+Oats,Calories,kcal/capita/day,,absoluteChange,0.071
+Oats,Calories,kcal/capita/day,,relativeChange,-0.124
+Oats,Fat,g/capita/day,,absoluteChange,0.075
+Oats,Fat,g/capita/day,,relativeChange,-0.281
+Oats,Food Weight,g/capita/day,,absoluteChange,0.079
+Oats,Food Weight,g/capita/day,,relativeChange,-0.141
+Oats,Protein,g/capita/day,,absoluteChange,0.072
+Oats,Protein,g/capita/day,,relativeChange,-0.152
+Oilcrops (other),Calories,kcal/capita/day,,absoluteChange,0.632
+Oilcrops (other),Calories,kcal/capita/day,,relativeChange,0.335
+Oilcrops (other),Fat,g/capita/day,1,absoluteChange,0.634
+Oilcrops (other),Fat,g/capita/day,1,relativeChange,0.092
+Oilcrops (other),Food Weight,g/capita/day,,absoluteChange,0.615
+Oilcrops (other),Food Weight,g/capita/day,,relativeChange,0.286
+Oilcrops (other),Protein,g/capita/day,,absoluteChange,0.33
+Oilcrops (other),Protein,g/capita/day,,relativeChange,0.052
+Olives,Calories,kcal/capita/day,,absoluteChange,0.444
+Olives,Calories,kcal/capita/day,,relativeChange,0.182
+Olives,Fat,g/capita/day,1,absoluteChange,0.435
+Olives,Fat,g/capita/day,1,relativeChange,-0.04
+Olives,Food Weight,g/capita/day,,absoluteChange,0.973
+Olives,Food Weight,g/capita/day,,relativeChange,0.57
+Olives,Protein,g/capita/day,,absoluteChange,2.647
+Olives,Protein,g/capita/day,,relativeChange,1.886
+Onions,Calories,kcal/capita/day,,absoluteChange,1.268
+Onions,Calories,kcal/capita/day,,relativeChange,0.856
+Onions,Fat,g/capita/day,,absoluteChange,4.2
+Onions,Fat,g/capita/day,,relativeChange,2.477
+Onions,Food Weight,g/capita/day,1,absoluteChange,1.306
+Onions,Food Weight,g/capita/day,1,relativeChange,0.836
+Onions,Protein,g/capita/day,,absoluteChange,1.29
+Onions,Protein,g/capita/day,,relativeChange,0.812
+Oranges & mandarines,Calories,kcal/capita/day,,absoluteChange,0.764
+Oranges & mandarines,Calories,kcal/capita/day,,relativeChange,0.444
+Oranges & mandarines,Fat,g/capita/day,,absoluteChange,1.182
+Oranges & mandarines,Fat,g/capita/day,,relativeChange,0.459
+Oranges & mandarines,Food Weight,g/capita/day,1,absoluteChange,1.106
+Oranges & mandarines,Food Weight,g/capita/day,1,relativeChange,0.677
+Oranges & mandarines,Protein,g/capita/day,,absoluteChange,0.731
+Oranges & mandarines,Protein,g/capita/day,,relativeChange,0.37
+Palm oil,Calories,kcal/capita/day,1,absoluteChange,2.057
+Palm oil,Calories,kcal/capita/day,1,relativeChange,1.501
+Palm oil,Fat,g/capita/day,1,absoluteChange,2.056
+Palm oil,Fat,g/capita/day,1,relativeChange,1.044
+Palm oil,Food Weight,g/capita/day,,absoluteChange,2.077
+Palm oil,Food Weight,g/capita/day,,relativeChange,1.45
+Palm oil,Protein,g/capita/day,,absoluteChange,1.1
+Palm oil,Protein,g/capita/day,,relativeChange,0.662
+Peas,Calories,kcal/capita/day,,absoluteChange,0.253
+Peas,Calories,kcal/capita/day,,relativeChange,0.025
+Peas,Fat,g/capita/day,,absoluteChange,0.272
+Peas,Fat,g/capita/day,,relativeChange,-0.149
+Peas,Food Weight,g/capita/day,,absoluteChange,0.245
+Peas,Food Weight,g/capita/day,,relativeChange,-0.009
+Peas,Protein,g/capita/day,,absoluteChange,0.243
+Peas,Protein,g/capita/day,,relativeChange,-0.016
+Pepper,Calories,kcal/capita/day,,absoluteChange,2.897
+Pepper,Calories,kcal/capita/day,,relativeChange,2.189
+Pepper,Fat,g/capita/day,,absoluteChange,0
+Pepper,Fat,g/capita/day,,relativeChange,0
+Pepper,Food Weight,g/capita/day,,absoluteChange,2.612
+Pepper,Food Weight,g/capita/day,,relativeChange,1.876
+Pepper,Protein,g/capita/day,,absoluteChange,8.693
+Pepper,Protein,g/capita/day,,relativeChange,6.67
+Pimento,Calories,kcal/capita/day,,absoluteChange,0.762
+Pimento,Calories,kcal/capita/day,,relativeChange,0.442
+Pimento,Fat,g/capita/day,,absoluteChange,0.902
+Pimento,Fat,g/capita/day,,relativeChange,0.272
+Pimento,Food Weight,g/capita/day,,absoluteChange,0.679
+Pimento,Food Weight,g/capita/day,,relativeChange,0.337
+Pimento,Protein,g/capita/day,,absoluteChange,0.754
+Pimento,Protein,g/capita/day,,relativeChange,0.388
+Pineapples,Calories,kcal/capita/day,,absoluteChange,1.733
+Pineapples,Calories,kcal/capita/day,,relativeChange,1.237
+Pineapples,Fat,g/capita/day,,absoluteChange,0.167
+Pineapples,Fat,g/capita/day,,relativeChange,-0.22
+Pineapples,Food Weight,g/capita/day,,absoluteChange,1.264
+Pineapples,Food Weight,g/capita/day,,relativeChange,0.802
+Pineapples,Protein,g/capita/day,,absoluteChange,1.723
+Pineapples,Protein,g/capita/day,,relativeChange,1.154
+Potatoes,Calories,kcal/capita/day,1,absoluteChange,0.108
+Potatoes,Calories,kcal/capita/day,1,relativeChange,-0.094
+Potatoes,Fat,g/capita/day,,absoluteChange,0.099
+Potatoes,Fat,g/capita/day,,relativeChange,-0.265
+Potatoes,Food Weight,g/capita/day,1,absoluteChange,0.131
+Potatoes,Food Weight,g/capita/day,1,relativeChange,-0.099
+Potatoes,Protein,g/capita/day,1,absoluteChange,0.048
+Potatoes,Protein,g/capita/day,1,relativeChange,-0.171
+Pulses (other),Calories,kcal/capita/day,1,absoluteChange,-0.063
+Pulses (other),Calories,kcal/capita/day,1,relativeChange,-0.233
+Pulses (other),Fat,g/capita/day,,absoluteChange,-0.081
+Pulses (other),Fat,g/capita/day,,relativeChange,-0.386
+Pulses (other),Food Weight,g/capita/day,,absoluteChange,-0.068
+Pulses (other),Food Weight,g/capita/day,,relativeChange,-0.258
+Pulses (other),Protein,g/capita/day,1,absoluteChange,-0.056
+Pulses (other),Protein,g/capita/day,1,relativeChange,-0.253
+Rape & mustard,Calories,kcal/capita/day,,absoluteChange,3.891
+Rape & mustard,Calories,kcal/capita/day,,relativeChange,3.002
+Rape & mustard,Fat,g/capita/day,1,absoluteChange,3.892
+Rape & mustard,Fat,g/capita/day,1,relativeChange,2.271
+Rape & mustard,Food Weight,g/capita/day,,absoluteChange,3.934
+Rape & mustard,Food Weight,g/capita/day,,relativeChange,2.929
+Rape & mustard,Protein,g/capita/day,,absoluteChange,4.022
+Rape & mustard,Protein,g/capita/day,,relativeChange,2.974
+Rice,Calories,kcal/capita/day,1,absoluteChange,0.259
+Rice,Calories,kcal/capita/day,1,relativeChange,0.03
+Rice,Fat,g/capita/day,1,absoluteChange,0.273
+Rice,Fat,g/capita/day,1,relativeChange,-0.149
+Rice,Food Weight,g/capita/day,1,absoluteChange,0.252
+Rice,Food Weight,g/capita/day,1,relativeChange,-0.003
+Rice,Protein,g/capita/day,1,absoluteChange,0.253
+Rice,Protein,g/capita/day,1,relativeChange,-0.009
+Roots (other),Calories,kcal/capita/day,1,absoluteChange,-0.285
+Roots (other),Calories,kcal/capita/day,1,relativeChange,-0.415
+Roots (other),Fat,g/capita/day,,absoluteChange,-0.322
+Roots (other),Fat,g/capita/day,,relativeChange,-0.547
+Roots (other),Food Weight,g/capita/day,1,absoluteChange,-0.305
+Roots (other),Food Weight,g/capita/day,1,relativeChange,-0.447
+Roots (other),Protein,g/capita/day,,absoluteChange,-0.3
+Roots (other),Protein,g/capita/day,,relativeChange,-0.446
+Rye,Calories,kcal/capita/day,,absoluteChange,-0.64
+Rye,Calories,kcal/capita/day,,relativeChange,-0.706
+Rye,Fat,g/capita/day,,absoluteChange,-0.64
+Rye,Fat,g/capita/day,,relativeChange,-0.759
+Rye,Food Weight,g/capita/day,,absoluteChange,-0.646
+Rye,Food Weight,g/capita/day,,relativeChange,-0.719
+Rye,Protein,g/capita/day,,absoluteChange,-0.637
+Rye,Protein,g/capita/day,,relativeChange,-0.713
+Sesame,Calories,kcal/capita/day,,absoluteChange,0.742
+Sesame,Calories,kcal/capita/day,,relativeChange,0.425
+Sesame,Fat,g/capita/day,,absoluteChange,0.648
+Sesame,Fat,g/capita/day,,relativeChange,0.102
+Sesame,Food Weight,g/capita/day,,absoluteChange,0.861
+Sesame,Food Weight,g/capita/day,,relativeChange,0.482
+Sesame,Protein,g/capita/day,,absoluteChange,1.333
+Sesame,Protein,g/capita/day,,relativeChange,0.846
+Sorghum,Calories,kcal/capita/day,1,absoluteChange,-0.43
+Sorghum,Calories,kcal/capita/day,1,relativeChange,-0.533
+Sorghum,Fat,g/capita/day,,absoluteChange,-0.434
+Sorghum,Fat,g/capita/day,,relativeChange,-0.621
+Sorghum,Food Weight,g/capita/day,1,absoluteChange,-0.418
+Sorghum,Food Weight,g/capita/day,1,relativeChange,-0.537
+Sorghum,Protein,g/capita/day,1,absoluteChange,-0.421
+Sorghum,Protein,g/capita/day,1,relativeChange,-0.542
+Soybean,Calories,kcal/capita/day,1,absoluteChange,3.192
+Soybean,Calories,kcal/capita/day,1,relativeChange,2.43
+Soybean,Fat,g/capita/day,1,absoluteChange,3.418
+Soybean,Fat,g/capita/day,1,relativeChange,1.954
+Soybean,Food Weight,g/capita/day,,absoluteChange,2.963
+Soybean,Food Weight,g/capita/day,,relativeChange,2.156
+Soybean,Protein,g/capita/day,,absoluteChange,1.197
+Soybean,Protein,g/capita/day,,relativeChange,0.738
+Spices (other),Calories,kcal/capita/day,,absoluteChange,1.75
+Spices (other),Calories,kcal/capita/day,,relativeChange,1.25
+Spices (other),Fat,g/capita/day,,absoluteChange,1.527
+Spices (other),Fat,g/capita/day,,relativeChange,0.69
+Spices (other),Food Weight,g/capita/day,,absoluteChange,1.637
+Spices (other),Food Weight,g/capita/day,,relativeChange,1.1
+Spices (other),Protein,g/capita/day,,absoluteChange,1.867
+Spices (other),Protein,g/capita/day,,relativeChange,1.269
+Sugar,Calories,kcal/capita/day,1,absoluteChange,0.201
+Sugar,Calories,kcal/capita/day,1,relativeChange,-0.017
+Sugar,Fat,g/capita/day,,absoluteChange,-0.128
+Sugar,Fat,g/capita/day,,relativeChange,-0.417
+Sugar,Food Weight,g/capita/day,1,absoluteChange,0.227
+Sugar,Food Weight,g/capita/day,1,relativeChange,-0.023
+Sugar,Protein,g/capita/day,,absoluteChange,-0.348
+Sugar,Protein,g/capita/day,,relativeChange,-0.484
+Sunflower,Calories,kcal/capita/day,1,absoluteChange,2.748
+Sunflower,Calories,kcal/capita/day,1,relativeChange,2.067
+Sunflower,Fat,g/capita/day,1,absoluteChange,2.748
+Sunflower,Fat,g/capita/day,1,relativeChange,1.506
+Sunflower,Food Weight,g/capita/day,,absoluteChange,2.76
+Sunflower,Food Weight,g/capita/day,,relativeChange,1.994
+Sunflower,Protein,g/capita/day,,absoluteChange,4.482
+Sunflower,Protein,g/capita/day,,relativeChange,3.338
+Sweet potatoes,Calories,kcal/capita/day,1,absoluteChange,-0.329
+Sweet potatoes,Calories,kcal/capita/day,1,relativeChange,-0.451
+Sweet potatoes,Fat,g/capita/day,,absoluteChange,-0.406
+Sweet potatoes,Fat,g/capita/day,,relativeChange,-0.603
+Sweet potatoes,Food Weight,g/capita/day,1,absoluteChange,-0.331
+Sweet potatoes,Food Weight,g/capita/day,1,relativeChange,-0.467
+Sweet potatoes,Protein,g/capita/day,,absoluteChange,-0.293
+Sweet potatoes,Protein,g/capita/day,,relativeChange,-0.441
+Sweeteners (other),Calories,kcal/capita/day,,absoluteChange,4.049
+Sweeteners (other),Calories,kcal/capita/day,,relativeChange,3.132
+Sweeteners (other),Fat,g/capita/day,,absoluteChange,-0.375
+Sweeteners (other),Fat,g/capita/day,,relativeChange,-0.582
+Sweeteners (other),Food Weight,g/capita/day,,absoluteChange,4.838
+Sweeteners (other),Food Weight,g/capita/day,,relativeChange,3.648
+Sweeteners (other),Protein,g/capita/day,,absoluteChange,3
+Sweeteners (other),Protein,g/capita/day,,relativeChange,2.165
+Tea,Calories,kcal/capita/day,,absoluteChange,0.403
+Tea,Calories,kcal/capita/day,,relativeChange,0.148
+Tea,Fat,g/capita/day,,absoluteChange,0
+Tea,Fat,g/capita/day,,relativeChange,0
+Tea,Food Weight,g/capita/day,,absoluteChange,0.427
+Tea,Food Weight,g/capita/day,,relativeChange,0.136
+Tea,Protein,g/capita/day,,absoluteChange,0.418
+Tea,Protein,g/capita/day,,relativeChange,0.122
+Tomatoes,Calories,kcal/capita/day,,absoluteChange,1.485
+Tomatoes,Calories,kcal/capita/day,,relativeChange,1.033
+Tomatoes,Fat,g/capita/day,,absoluteChange,1.615
+Tomatoes,Fat,g/capita/day,,relativeChange,0.748
+Tomatoes,Food Weight,g/capita/day,1,absoluteChange,1.481
+Tomatoes,Food Weight,g/capita/day,1,relativeChange,0.975
+Tomatoes,Protein,g/capita/day,,absoluteChange,1.483
+Tomatoes,Protein,g/capita/day,,relativeChange,0.965
+Treenuts,Calories,kcal/capita/day,,absoluteChange,1.112
+Treenuts,Calories,kcal/capita/day,,relativeChange,0.728
+Treenuts,Fat,g/capita/day,1,absoluteChange,1.632
+Treenuts,Fat,g/capita/day,1,relativeChange,0.76
+Treenuts,Food Weight,g/capita/day,,absoluteChange,1.265
+Treenuts,Food Weight,g/capita/day,,relativeChange,0.803
+Treenuts,Protein,g/capita/day,,absoluteChange,1.235
+Treenuts,Protein,g/capita/day,,relativeChange,0.768
+Vegetables (other),Calories,kcal/capita/day,1,absoluteChange,0.539
+Vegetables (other),Calories,kcal/capita/day,1,relativeChange,0.259
+Vegetables (other),Fat,g/capita/day,,absoluteChange,0.479
+Vegetables (other),Fat,g/capita/day,,relativeChange,-0.011
+Vegetables (other),Food Weight,g/capita/day,1,absoluteChange,0.422
+Vegetables (other),Food Weight,g/capita/day,1,relativeChange,0.132
+Vegetables (other),Protein,g/capita/day,1,absoluteChange,0.401
+Vegetables (other),Protein,g/capita/day,1,relativeChange,0.109
+Wheat,Calories,kcal/capita/day,1,absoluteChange,0.226
+Wheat,Calories,kcal/capita/day,1,relativeChange,0.003
+Wheat,Fat,g/capita/day,1,absoluteChange,0.597
+Wheat,Fat,g/capita/day,1,relativeChange,0.068
+Wheat,Food Weight,g/capita/day,1,absoluteChange,0.195
+Wheat,Food Weight,g/capita/day,1,relativeChange,-0.048
+Wheat,Protein,g/capita/day,1,absoluteChange,0.19
+Wheat,Protein,g/capita/day,1,relativeChange,-0.058
+Yams,Calories,kcal/capita/day,,absoluteChange,-0.044
+Yams,Calories,kcal/capita/day,,relativeChange,-0.218
+Yams,Fat,g/capita/day,,absoluteChange,-0.057
+Yams,Fat,g/capita/day,,relativeChange,-0.369
+Yams,Food Weight,g/capita/day,1,absoluteChange,-0.053
+Yams,Food Weight,g/capita/day,1,relativeChange,-0.246
+Yams,Protein,g/capita/day,,absoluteChange,-0.063
+Yams,Protein,g/capita/day,,relativeChange,-0.259

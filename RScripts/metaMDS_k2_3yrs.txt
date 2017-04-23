@@ -1,0 +1,27 @@
+metaMDS_k2_3yrsnSquare root transformationnWisconsin double standardizationnRun 0 stress 0.2177133 nRun 1 stress 0.2209349 nRun 2 stress 0.2275669 nRun 3 stress 0.2437183 nRun 4 stress 0.2400345 nRun 5 stress 0.4192678 nRun 6 stress 0.2222756 nRun 7 stress 0.2360869 nRun 8 stress 0.2370407 nRun 9 stress 0.2501044 nRun 10 stress 0.2439878 nRun 11 stress 0.2484969 nRun 12 stress 0.227082 nRun 13 stress 0.2397195 nRun 14 stress 0.2390492 nRun 15 stress 0.2497616 nRun 16 stress 0.2412407 nRun 17 stress 0.2328721 nRun 18 stress 0.2413564 nRun 19 stress 0.2408362 nRun 20 stress 0.2310764 n*** No convergence -- monoMDS stopping criteria:n     1: no. of iterations >= maxitn    19: stress ratio > sratmaxmetaMDS_k2_3yrs output
+Square root transformation
+Wisconsin double standardization
+Run 0 stress 0.2177133 
+Run 1 stress 0.2209349 
+Run 2 stress 0.2275669 
+Run 3 stress 0.2437183 
+Run 4 stress 0.2400345 
+Run 5 stress 0.4192678 
+Run 6 stress 0.2222756 
+Run 7 stress 0.2360869 
+Run 8 stress 0.2370407 
+Run 9 stress 0.2501044 
+Run 10 stress 0.2439878 
+Run 11 stress 0.2484969 
+Run 12 stress 0.227082 
+Run 13 stress 0.2397195 
+Run 14 stress 0.2390492 
+Run 15 stress 0.2497616 
+Run 16 stress 0.2412407 
+Run 17 stress 0.2328721 
+Run 18 stress 0.2413564 
+Run 19 stress 0.2408362 
+Run 20 stress 0.2310764 
+*** No convergence -- monoMDS stopping criteria:
+     1: no. of iterations >= maxit
+    19: stress ratio > sratmax

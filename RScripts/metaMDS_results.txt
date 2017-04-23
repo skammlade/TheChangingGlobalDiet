@@ -1,0 +1,81 @@
+> crops.mds.allyrs<-metaMDS(data4nmds.allyrs,distance="bray",k=2) # can play around with options here to ensure convergence
+Square root transformation
+Wisconsin double standardization
+Run 0 stress 0.2134498 
+Run 1 stress 0.2296426 
+Run 2 stress 0.2422925 
+Run 3 stress 0.2335578 
+Run 4 stress 0.4212219 
+Run 5 stress 0.2307552 
+Run 6 stress 0.2293864 
+Run 7 stress 0.235168 
+Run 8 stress 0.4212173 
+Run 9 stress 0.2356395 
+Run 10 stress 0.2351415 
+Run 11 stress 0.236391 
+Run 12 stress 0.2356196 
+Run 13 stress 0.2345434 
+Run 14 stress 0.2388136 
+Run 15 stress 0.2378531 
+Run 16 stress 0.2413281 
+Run 17 stress 0.2332243 
+Run 18 stress 0.2387693 
+Run 19 stress 0.4212186 
+Run 20 stress 0.2339815 
+*** No convergence -- monoMDS stopping criteria:
+     8: no. of iterations >= maxit
+    12: scale factor of the gradient < sfgrmin
+Warning messages:
+1: In lm.fit(x, y, offset = offset, singular.ok = singular.ok, ...) :
+  Reached total allocation of 7906Mb: see help(memory.size)
+2: In lm.fit(x, y, offset = offset, singular.ok = singular.ok, ...) :
+  Reached total allocation of 7906Mb: see help(memory.size)
+> write.csv(crops.mds.allyrs, "c:/users/sara/crops.mds.allyrskcal.csv")
+Error in as.data.frame.default(x[[i]], optional = TRUE, stringsAsFactors = stringsAsFactors) : 
+  cannot coerce class "c("metaMDS", "monoMDS")" to a data.frame
+> #Square root transformation
+> #Wisconsin double standardization 
+> 
+> head(crops.mds.allyrs$diss)
+[1] 0.002805188 0.003180817 0.003522296 0.003543905 0.003666775 0.003876470
+> head(data4nmds.allyrs)
+  Apples Bananas & plantains Barley Beans Beverages, alcoholic Beverages, fermented Cassava Cereals, other Citrus, other Cloves
+1      8                   0     18    28                    4                    0       0              0             0      0
+2      4                   2    178     3                    4                    0       0              1             0      0
+3      0                  48      2    72                   17                    8     604              0            10      0
+4      1                   0      4     0                    0                    0       0              0             0      0
+5     16                  17      9    13                   32                    0      11              5             0      0
+6     21                  19    100     4                   15                    1       0              0             0      0
+  Cocoa beans Coconuts Coffee Cottonseed oil Dates Fruits, other Grapefruit Grapes Groundnut Lemons & limes Maize Millets Oats
+1           0        0      0              0     0            45          0     41         0              0   669       0    0
+2           0        0      3              0    33            10          0      4        18              0     4       0    0
+3           0        0      0              1     0             6          0     25        30              0   431      84    0
+4           7        0      0             19     0           119          0      2         0              0     0       0    2
+5           1        1      2             26     0            17          1    152         6              2    26       0    0
+6           5       46      2              1     2            15          0     28        40              1    11       0    1
+  Oilcrops, other Olives Onions Oranges & mandarines Palm oil Peas Pepper Pimento Pineapples Potatoes Pulses, other Rape & mustard Rice
+1               0     37      0                    1        0    0      0       0          0       11             1              0   17
+2               0     22      6                   10        2    2      1       4          0       61            20             63    7
+3               1     15      0                    0       86    0      0       0          2        4             0              0   32
+4              57      0      4                    0        0    0      0       0          0       22            14              0  229
+5               3      2      9                   24        0    7      0       1          1      149             6              2   38
+6               0     11      5                   15        2    8      1       0          8       58             0              1   30
+  Roots, other Rye Sesame Sorghum Soybean Spices, other Sugar Sunflower Sweet potatoes Sweeteners, other Tea Tomatoes Treenuts
+1            0  16      0       0       0             0   109        21              0                 0   0        8       24
+2            0   0      0       0      10             0   168         0              0                 0   0        5        4
+3            0   0      2       0       0             0    51        10             42                 0   0        0        1
+4            0   0      0       0     111             0   352         0              4                 1   0        0        0
+5            0   1      0       0       0             0   364       132             41                17   9        7        2
+6            0   8      0       0       4             1   546         2              0                 5   3        6        8
+  Vegetables, other Wheat Yams
+1                33   756    0
+2                11   847    0
+3                18    64    0
+4                 2   646    1
+5                40   946    0
+6                29   776    0
+Warning messages:
+1: In structure(.Call(C_objectSize, x), class = "object_size") :
+  Reached total allocation of 7906Mb: see help(memory.size)
+2: In structure(.Call(C_objectSize, x), class = "object_size") :
+  Reached total allocation of 7906Mb: see help(memory.size)

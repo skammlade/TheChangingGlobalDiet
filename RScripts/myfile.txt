@@ -1,0 +1,92 @@
+Square root transformation
+Wisconsin double standardization
+Run 0 stress 0.2176709 
+Run 1 stress 0.2223659 
+Run 2 stress 0.2479046 
+Run 3 stress 0.2333882 
+Run 4 stress 0.2326912 
+Run 5 stress 0.2286181 
+Run 6 stress 0.2348722 
+Run 7 stress 0.2301664 
+Run 8 stress 0.2290479 
+Run 9 stress 0.227482 
+Run 10 stress 0.2398747 
+Run 11 stress 0.2272443 
+Run 12 stress 0.2262842 
+Run 13 stress 0.2246091 
+Run 14 stress 0.233974 
+Run 15 stress 0.2375329 
+Run 16 stress 0.41924 
+Run 17 stress 0.233012 
+Run 18 stress 0.2308279 
+Run 19 stress 0.2410983 
+Run 20 stress 0.2346117 
+*** No convergence -- monoMDS stopping criteria:
+     1: no. of iterations >= maxit
+    19: stress ratio > sratmax
+null device 
+          1 
+
+Call:
+metaMDS(comm = data4nmds.3yrs, distance = "bray", k = 2, trymax = 1,      stratmax = 0.9999999999) 
+
+global Multidimensional Scaling using monoMDS
+
+Data:     wisconsin(sqrt(data4nmds.3yrs)) 
+Distance: bray 
+
+Dimensions: 2 
+Stress:     0.2176709 
+Stress type 1, weak ties
+No convergent solutions - best solution after 20 tries
+Scaling: centring, PC rotation, halfchange scaling 
+Species: expanded scores based on ‘wisconsin(sqrt(data4nmds.3yrs))’ 
+
+
+Call:
+metaMDS(comm = data4nmds.3yrs, distance = "bray", k = 2, trymax = 1,      stratmax = 0.9999999999) 
+
+global Multidimensional Scaling using monoMDS
+
+Data:     wisconsin(sqrt(data4nmds.3yrs)) 
+Distance: bray 
+
+Dimensions: 2 
+Stress:     0.2176709 
+Stress type 1, weak ties
+No convergent solutions - best solution after 20 tries
+Scaling: centring, PC rotation, halfchange scaling 
+Species: expanded scores based on ‘wisconsin(sqrt(data4nmds.3yrs))’ 
+
+
+Call:
+metaMDS(comm = data4nmds.3yrs, distance = "bray", k = 2, trymax = 1,      stratmax = 0.9999999999) 
+
+global Multidimensional Scaling using monoMDS
+
+Data:     wisconsin(sqrt(data4nmds.3yrs)) 
+Distance: bray 
+
+Dimensions: 2 
+Stress:     0.2176709 
+Stress type 1, weak ties
+No convergent solutions - best solution after 20 tries
+Scaling: centring, PC rotation, halfchange scaling 
+Species: expanded scores based on ‘wisconsin(sqrt(data4nmds.3yrs))’ 
+
+
+Call:
+metaMDS(comm = dataNMDSDecadesCropsCalories, distance = "bray",      k = 2, trymax = 100, stratmax = 0.9999999999) 
+
+global Multidimensional Scaling using monoMDS
+
+Data:     wisconsin(sqrt(dataNMDSDecadesCropsCalories)) 
+Distance: bray 
+
+Dimensions: 2 
+Stress:     0.21009 
+Stress type 1, weak ties
+No convergent solutions - best solution after 100 tries
+Scaling: centring, PC rotation, halfchange scaling 
+Species: expanded scores based on ‘wisconsin(sqrt(dataNMDSDecadesCropsCalories))’ 
+

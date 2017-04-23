@@ -1,0 +1,2157 @@
+Year,GlobalMean,Measurement,FoodGroup,Unit
+1961,79.34868421,Calories,Alcoholic beverages,kcal/capita/day
+1961,382.9078947,Calories,Animal products,kcal/capita/day
+1961,85.56578947,Calories,Fruits,kcal/capita/day
+1961,976.2302632,Calories,Grains,kcal/capita/day
+1961,0.802631579,Calories,Miscellaneous,kcal/capita/day
+1961,186.3486842,Calories,Oils,kcal/capita/day
+1961,63.36184211,Calories,Pulses,kcal/capita/day
+1961,8.092105263,Calories,Spices & stimulants,kcal/capita/day
+1961,213.5065789,Calories,Starchy roots,kcal/capita/day
+1961,219.8486842,Calories,Sweeteners,kcal/capita/day
+1961,31.75657895,Calories,Vegetables,kcal/capita/day
+1961,0.098684211,Fat,Alcoholic beverages,g/capita/day
+1961,28.01184211,Fat,Animal products,g/capita/day
+1961,0.501315789,Fat,Fruits,g/capita/day
+1961,5.230921053,Fat,Grains,g/capita/day
+1961,0.003947368,Fat,Miscellaneous,g/capita/day
+1961,19.21381579,Fat,Oils,g/capita/day
+1961,0.340131579,Fat,Pulses,g/capita/day
+1961,0.340131579,Fat,Spices & stimulants,g/capita/day
+1961,0.365789474,Fat,Starchy roots,g/capita/day
+1961,0.011842105,Fat,Sweeteners,g/capita/day
+1961,0.253947368,Fat,Vegetables,g/capita/day
+1961,101.9628695,Food Weight,Alcoholic beverages,g/capita/day
+1961,344.8846431,Food Weight,Animal products,g/capita/day
+1961,160.6218457,Food Weight,Fruits,g/capita/day
+1961,323.3868061,Food Weight,Grains,g/capita/day
+1961,0,Food Weight,Miscellaneous,g/capita/day
+1961,47.26207642,Food Weight,Oils,g/capita/day
+1961,18.7148522,Food Weight,Pulses,g/capita/day
+1961,7.063806777,Food Weight,Spices & stimulants,g/capita/day
+1961,241.9664744,Food Weight,Starchy roots,g/capita/day
+1961,65.69935112,Food Weight,Sweeteners,g/capita/day
+1961,129.6971882,Food Weight,Vegetables,g/capita/day
+1961,0.836184211,Protein,Alcoholic beverages,g/capita/day
+1961,22.64144737,Protein,Animal products,g/capita/day
+1961,0.971052632,Protein,Fruits,g/capita/day
+1961,25.56315789,Protein,Grains,g/capita/day
+1961,0.028289474,Protein,Miscellaneous,g/capita/day
+1961,1.6375,Protein,Oils,g/capita/day
+1961,4.071710526,Protein,Pulses,g/capita/day
+1961,0.538815789,Protein,Spices & stimulants,g/capita/day
+1961,3.014473684,Protein,Starchy roots,g/capita/day
+1961,0.025,Protein,Sweeteners,g/capita/day
+1961,1.619078947,Protein,Vegetables,g/capita/day
+1962,81.23026316,Calories,Alcoholic beverages,kcal/capita/day
+1962,384.3289474,Calories,Animal products,kcal/capita/day
+1962,86.17105263,Calories,Fruits,kcal/capita/day
+1962,983.0526316,Calories,Grains,kcal/capita/day
+1962,0.822368421,Calories,Miscellaneous,kcal/capita/day
+1962,195.0526316,Calories,Oils,kcal/capita/day
+1962,62.77631579,Calories,Pulses,kcal/capita/day
+1962,8.546052632,Calories,Spices & stimulants,kcal/capita/day
+1962,210.2434211,Calories,Starchy roots,kcal/capita/day
+1962,225.8618421,Calories,Sweeteners,kcal/capita/day
+1962,32.15789474,Calories,Vegetables,kcal/capita/day
+1962,0.100657895,Fat,Alcoholic beverages,g/capita/day
+1962,28.07434211,Fat,Animal products,g/capita/day
+1962,0.515789474,Fat,Fruits,g/capita/day
+1962,5.2625,Fat,Grains,g/capita/day
+1962,0.005263158,Fat,Miscellaneous,g/capita/day
+1962,20.16907895,Fat,Oils,g/capita/day
+1962,0.334868421,Fat,Pulses,g/capita/day
+1962,0.3625,Fat,Spices & stimulants,g/capita/day
+1962,0.364473684,Fat,Starchy roots,g/capita/day
+1962,0.0125,Fat,Sweeteners,g/capita/day
+1962,0.257236842,Fat,Vegetables,g/capita/day
+1962,103.8662581,Food Weight,Alcoholic beverages,g/capita/day
+1962,346.7736121,Food Weight,Animal products,g/capita/day
+1962,162.7108868,Food Weight,Fruits,g/capita/day
+1962,325.3640952,Food Weight,Grains,g/capita/day
+1962,0,Food Weight,Miscellaneous,g/capita/day
+1962,48.36697909,Food Weight,Oils,g/capita/day
+1962,18.54001442,Food Weight,Pulses,g/capita/day
+1962,7.350396539,Food Weight,Spices & stimulants,g/capita/day
+1962,237.9920692,Food Weight,Starchy roots,g/capita/day
+1962,67.36842105,Food Weight,Sweeteners,g/capita/day
+1962,131.2328767,Food Weight,Vegetables,g/capita/day
+1962,0.853289474,Protein,Alcoholic beverages,g/capita/day
+1962,22.86184211,Protein,Animal products,g/capita/day
+1962,0.971710526,Protein,Fruits,g/capita/day
+1962,25.70723684,Protein,Grains,g/capita/day
+1962,0.026973684,Protein,Miscellaneous,g/capita/day
+1962,1.698684211,Protein,Oils,g/capita/day
+1962,4.036842105,Protein,Pulses,g/capita/day
+1962,0.557236842,Protein,Spices & stimulants,g/capita/day
+1962,2.966447368,Protein,Starchy roots,g/capita/day
+1962,0.025,Protein,Sweeteners,g/capita/day
+1962,1.628289474,Protein,Vegetables,g/capita/day
+1963,79.84868421,Calories,Alcoholic beverages,kcal/capita/day
+1963,387.3618421,Calories,Animal products,kcal/capita/day
+1963,86.57236842,Calories,Fruits,kcal/capita/day
+1963,989.5263158,Calories,Grains,kcal/capita/day
+1963,0.861842105,Calories,Miscellaneous,kcal/capita/day
+1963,198.4671053,Calories,Oils,kcal/capita/day
+1963,64.07894737,Calories,Pulses,kcal/capita/day
+1963,8.493421053,Calories,Spices & stimulants,kcal/capita/day
+1963,208.6644737,Calories,Starchy roots,kcal/capita/day
+1963,223.7171053,Calories,Sweeteners,kcal/capita/day
+1963,32.85526316,Calories,Vegetables,kcal/capita/day
+1963,0.085526316,Fat,Alcoholic beverages,g/capita/day
+1963,28.23223684,Fat,Animal products,g/capita/day
+1963,0.511184211,Fat,Fruits,g/capita/day
+1963,5.286184211,Fat,Grains,g/capita/day
+1963,0.004605263,Fat,Miscellaneous,g/capita/day
+1963,20.55986842,Fat,Oils,g/capita/day
+1963,0.344078947,Fat,Pulses,g/capita/day
+1963,0.357894737,Fat,Spices & stimulants,g/capita/day
+1963,0.3625,Fat,Starchy roots,g/capita/day
+1963,0.011842105,Fat,Sweeteners,g/capita/day
+1963,0.264473684,Fat,Vegetables,g/capita/day
+1963,102.68385,Food Weight,Alcoholic beverages,g/capita/day
+1963,350.4325883,Food Weight,Animal products,g/capita/day
+1963,163.2858688,Food Weight,Fruits,g/capita/day
+1963,327.4315068,Food Weight,Grains,g/capita/day
+1963,0,Food Weight,Miscellaneous,g/capita/day
+1963,48.21377073,Food Weight,Oils,g/capita/day
+1963,18.95277578,Food Weight,Pulses,g/capita/day
+1963,7.395457823,Food Weight,Spices & stimulants,g/capita/day
+1963,236.7483778,Food Weight,Starchy roots,g/capita/day
+1963,66.92862293,Food Weight,Sweeteners,g/capita/day
+1963,134.5656092,Food Weight,Vegetables,g/capita/day
+1963,0.807236842,Protein,Alcoholic beverages,g/capita/day
+1963,23.10394737,Protein,Animal products,g/capita/day
+1963,0.980921053,Protein,Fruits,g/capita/day
+1963,25.83157895,Protein,Grains,g/capita/day
+1963,0.032236842,Protein,Miscellaneous,g/capita/day
+1963,1.671052632,Protein,Oils,g/capita/day
+1963,4.128289474,Protein,Pulses,g/capita/day
+1963,0.555263158,Protein,Spices & stimulants,g/capita/day
+1963,2.953289474,Protein,Starchy roots,g/capita/day
+1963,0.025657895,Protein,Sweeteners,g/capita/day
+1963,1.656578947,Protein,Vegetables,g/capita/day
+1964,82.59210526,Calories,Alcoholic beverages,kcal/capita/day
+1964,391.4671053,Calories,Animal products,kcal/capita/day
+1964,89.34868421,Calories,Fruits,kcal/capita/day
+1964,1001.092105,Calories,Grains,kcal/capita/day
+1964,0.986842105,Calories,Miscellaneous,kcal/capita/day
+1964,199.8421053,Calories,Oils,kcal/capita/day
+1964,64.40789474,Calories,Pulses,kcal/capita/day
+1964,8.763157895,Calories,Spices & stimulants,kcal/capita/day
+1964,208.1578947,Calories,Starchy roots,kcal/capita/day
+1964,228.4144737,Calories,Sweeteners,kcal/capita/day
+1964,33.23684211,Calories,Vegetables,kcal/capita/day
+1964,0.092105263,Fat,Alcoholic beverages,g/capita/day
+1964,28.53026316,Fat,Animal products,g/capita/day
+1964,0.519078947,Fat,Fruits,g/capita/day
+1964,5.394078947,Fat,Grains,g/capita/day
+1964,0.005921053,Fat,Miscellaneous,g/capita/day
+1964,20.71447368,Fat,Oils,g/capita/day
+1964,0.344736842,Fat,Pulses,g/capita/day
+1964,0.378289474,Fat,Spices & stimulants,g/capita/day
+1964,0.359868421,Fat,Starchy roots,g/capita/day
+1964,0.011842105,Fat,Sweeteners,g/capita/day
+1964,0.268421053,Fat,Vegetables,g/capita/day
+1964,106.8619322,Food Weight,Alcoholic beverages,g/capita/day
+1964,354.2357606,Food Weight,Animal products,g/capita/day
+1964,168.4354722,Food Weight,Fruits,g/capita/day
+1964,331.0454218,Food Weight,Grains,g/capita/day
+1964,0,Food Weight,Miscellaneous,g/capita/day
+1964,48.42105263,Food Weight,Oils,g/capita/day
+1964,19.04470079,Food Weight,Pulses,g/capita/day
+1964,7.489185292,Food Weight,Spices & stimulants,g/capita/day
+1964,235.7570296,Food Weight,Starchy roots,g/capita/day
+1964,68.40663302,Food Weight,Sweeteners,g/capita/day
+1964,136.4077145,Food Weight,Vegetables,g/capita/day
+1964,0.820394737,Protein,Alcoholic beverages,g/capita/day
+1964,23.36381579,Protein,Animal products,g/capita/day
+1964,1.011184211,Protein,Fruits,g/capita/day
+1964,26.12894737,Protein,Grains,g/capita/day
+1964,0.035526316,Protein,Miscellaneous,g/capita/day
+1964,1.694078947,Protein,Oils,g/capita/day
+1964,4.141447368,Protein,Pulses,g/capita/day
+1964,0.563157895,Protein,Spices & stimulants,g/capita/day
+1964,2.95,Protein,Starchy roots,g/capita/day
+1964,0.025,Protein,Sweeteners,g/capita/day
+1964,1.682894737,Protein,Vegetables,g/capita/day
+1965,83.21710526,Calories,Alcoholic beverages,kcal/capita/day
+1965,395.1184211,Calories,Animal products,kcal/capita/day
+1965,88.01315789,Calories,Fruits,kcal/capita/day
+1965,1002.263158,Calories,Grains,kcal/capita/day
+1965,1.25,Calories,Miscellaneous,kcal/capita/day
+1965,204.7434211,Calories,Oils,kcal/capita/day
+1965,64.48026316,Calories,Pulses,kcal/capita/day
+1965,8.875,Calories,Spices & stimulants,kcal/capita/day
+1965,209.9539474,Calories,Starchy roots,kcal/capita/day
+1965,236.9934211,Calories,Sweeteners,kcal/capita/day
+1965,32.82894737,Calories,Vegetables,kcal/capita/day
+1965,0.092763158,Fat,Alcoholic beverages,g/capita/day
+1965,28.80592105,Fat,Animal products,g/capita/day
+1965,0.504605263,Fat,Fruits,g/capita/day
+1965,5.384868421,Fat,Grains,g/capita/day
+1965,0.008552632,Fat,Miscellaneous,g/capita/day
+1965,21.29605263,Fat,Oils,g/capita/day
+1965,0.349342105,Fat,Pulses,g/capita/day
+1965,0.389473684,Fat,Spices & stimulants,g/capita/day
+1965,0.363157895,Fat,Starchy roots,g/capita/day
+1965,0.0125,Fat,Sweeteners,g/capita/day
+1965,0.261842105,Fat,Vegetables,g/capita/day
+1965,107.5883201,Food Weight,Alcoholic beverages,g/capita/day
+1965,358.1362653,Food Weight,Animal products,g/capita/day
+1965,166.481615,Food Weight,Fruits,g/capita/day
+1965,334.9423216,Food Weight,Grains,g/capita/day
+1965,0,Food Weight,Miscellaneous,g/capita/day
+1965,48.81218457,Food Weight,Oils,g/capita/day
+1965,19.0555155,Food Weight,Pulses,g/capita/day
+1965,7.545061283,Food Weight,Spices & stimulants,g/capita/day
+1965,237.703677,Food Weight,Starchy roots,g/capita/day
+1965,71.07065609,Food Weight,Sweeteners,g/capita/day
+1965,135.0468637,Food Weight,Vegetables,g/capita/day
+1965,0.821052632,Protein,Alcoholic beverages,g/capita/day
+1965,23.63223684,Protein,Animal products,g/capita/day
+1965,1.001973684,Protein,Fruits,g/capita/day
+1965,26.175,Protein,Grains,g/capita/day
+1965,0.044736842,Protein,Miscellaneous,g/capita/day
+1965,1.711842105,Protein,Oils,g/capita/day
+1965,4.148026316,Protein,Pulses,g/capita/day
+1965,0.569736842,Protein,Spices & stimulants,g/capita/day
+1965,2.958552632,Protein,Starchy roots,g/capita/day
+1965,0.026973684,Protein,Sweeteners,g/capita/day
+1965,1.655921053,Protein,Vegetables,g/capita/day
+1966,85.57894737,Calories,Alcoholic beverages,kcal/capita/day
+1966,402.4473684,Calories,Animal products,kcal/capita/day
+1966,89.77631579,Calories,Fruits,kcal/capita/day
+1966,1001.394737,Calories,Grains,kcal/capita/day
+1966,1.421052632,Calories,Miscellaneous,kcal/capita/day
+1966,208.7894737,Calories,Oils,kcal/capita/day
+1966,64.54605263,Calories,Pulses,kcal/capita/day
+1966,9.447368421,Calories,Spices & stimulants,kcal/capita/day
+1966,205.9539474,Calories,Starchy roots,kcal/capita/day
+1966,241.8092105,Calories,Sweeteners,kcal/capita/day
+1966,33.79605263,Calories,Vegetables,kcal/capita/day
+1966,0.098684211,Fat,Alcoholic beverages,g/capita/day
+1966,29.25460526,Fat,Animal products,g/capita/day
+1966,0.511184211,Fat,Fruits,g/capita/day
+1966,5.386842105,Fat,Grains,g/capita/day
+1966,0.010526316,Fat,Miscellaneous,g/capita/day
+1966,21.74473684,Fat,Oils,g/capita/day
+1966,0.347368421,Fat,Pulses,g/capita/day
+1966,0.419078947,Fat,Spices & stimulants,g/capita/day
+1966,0.356578947,Fat,Starchy roots,g/capita/day
+1966,0.011842105,Fat,Sweeteners,g/capita/day
+1966,0.267105263,Fat,Vegetables,g/capita/day
+1966,111.3842826,Food Weight,Alcoholic beverages,g/capita/day
+1966,366.0147801,Food Weight,Animal products,g/capita/day
+1966,171.1229272,Food Weight,Fruits,g/capita/day
+1966,334.6719539,Food Weight,Grains,g/capita/day
+1966,0,Food Weight,Miscellaneous,g/capita/day
+1966,48.79596251,Food Weight,Oils,g/capita/day
+1966,19.07894737,Food Weight,Pulses,g/capita/day
+1966,7.966834895,Food Weight,Spices & stimulants,g/capita/day
+1966,233.1272531,Food Weight,Starchy roots,g/capita/day
+1966,72.37923576,Food Weight,Sweeteners,g/capita/day
+1966,137.3792358,Food Weight,Vegetables,g/capita/day
+1966,0.836842105,Protein,Alcoholic beverages,g/capita/day
+1966,24.3,Protein,Animal products,g/capita/day
+1966,1.032894737,Protein,Fruits,g/capita/day
+1966,26.10855263,Protein,Grains,g/capita/day
+1966,0.049342105,Protein,Miscellaneous,g/capita/day
+1966,1.721052632,Protein,Oils,g/capita/day
+1966,4.157236842,Protein,Pulses,g/capita/day
+1966,0.599342105,Protein,Spices & stimulants,g/capita/day
+1966,2.907236842,Protein,Starchy roots,g/capita/day
+1966,0.026973684,Protein,Sweeteners,g/capita/day
+1966,1.700657895,Protein,Vegetables,g/capita/day
+1967,85.31578947,Calories,Alcoholic beverages,kcal/capita/day
+1967,405.4210526,Calories,Animal products,kcal/capita/day
+1967,92.36842105,Calories,Fruits,kcal/capita/day
+1967,998.4802632,Calories,Grains,kcal/capita/day
+1967,1.440789474,Calories,Miscellaneous,kcal/capita/day
+1967,212.2039474,Calories,Oils,kcal/capita/day
+1967,65.38157895,Calories,Pulses,kcal/capita/day
+1967,9.657894737,Calories,Spices & stimulants,kcal/capita/day
+1967,205.0328947,Calories,Starchy roots,kcal/capita/day
+1967,245.2368421,Calories,Sweeteners,kcal/capita/day
+1967,34.28289474,Calories,Vegetables,kcal/capita/day
+1967,0.092105263,Fat,Alcoholic beverages,g/capita/day
+1967,29.44934211,Fat,Animal products,g/capita/day
+1967,0.530263158,Fat,Fruits,g/capita/day
+1967,5.432236842,Fat,Grains,g/capita/day
+1967,0.011184211,Fat,Miscellaneous,g/capita/day
+1967,22.11447368,Fat,Oils,g/capita/day
+1967,0.351973684,Fat,Pulses,g/capita/day
+1967,0.421052632,Fat,Spices & stimulants,g/capita/day
+1967,0.350657895,Fat,Starchy roots,g/capita/day
+1967,0.009868421,Fat,Sweeteners,g/capita/day
+1967,0.271710526,Fat,Vegetables,g/capita/day
+1967,112.8172314,Food Weight,Alcoholic beverages,g/capita/day
+1967,370.46323,Food Weight,Animal products,g/capita/day
+1967,176.5987743,Food Weight,Fruits,g/capita/day
+1967,334.0428983,Food Weight,Grains,g/capita/day
+1967,0,Food Weight,Miscellaneous,g/capita/day
+1967,48.82480173,Food Weight,Oils,g/capita/day
+1967,19.3258832,Food Weight,Pulses,g/capita/day
+1967,8.024513338,Food Weight,Spices & stimulants,g/capita/day
+1967,232.2170151,Food Weight,Starchy roots,g/capita/day
+1967,73.20115357,Food Weight,Sweeteners,g/capita/day
+1967,139.3781543,Food Weight,Vegetables,g/capita/day
+1967,0.827631579,Protein,Alcoholic beverages,g/capita/day
+1967,24.51842105,Protein,Animal products,g/capita/day
+1967,1.038815789,Protein,Fruits,g/capita/day
+1967,26.05855263,Protein,Grains,g/capita/day
+1967,0.05,Protein,Miscellaneous,g/capita/day
+1967,1.744078947,Protein,Oils,g/capita/day
+1967,4.196710526,Protein,Pulses,g/capita/day
+1967,0.598684211,Protein,Spices & stimulants,g/capita/day
+1967,2.899342105,Protein,Starchy roots,g/capita/day
+1967,0.024342105,Protein,Sweeteners,g/capita/day
+1967,1.706578947,Protein,Vegetables,g/capita/day
+1968,86.00657895,Calories,Alcoholic beverages,kcal/capita/day
+1968,414.875,Calories,Animal products,kcal/capita/day
+1968,92.42763158,Calories,Fruits,kcal/capita/day
+1968,1001.059211,Calories,Grains,kcal/capita/day
+1968,1.532894737,Calories,Miscellaneous,kcal/capita/day
+1968,216.1052632,Calories,Oils,kcal/capita/day
+1968,63.43421053,Calories,Pulses,kcal/capita/day
+1968,9.677631579,Calories,Spices & stimulants,kcal/capita/day
+1968,205.4539474,Calories,Starchy roots,kcal/capita/day
+1968,249.7828947,Calories,Sweeteners,kcal/capita/day
+1968,34.20394737,Calories,Vegetables,kcal/capita/day
+1968,0.094078947,Fat,Alcoholic beverages,g/capita/day
+1968,30.19013158,Fat,Animal products,g/capita/day
+1968,0.534210526,Fat,Fruits,g/capita/day
+1968,5.457894737,Fat,Grains,g/capita/day
+1968,0.011842105,Fat,Miscellaneous,g/capita/day
+1968,22.51776316,Fat,Oils,g/capita/day
+1968,0.344078947,Fat,Pulses,g/capita/day
+1968,0.426973684,Fat,Spices & stimulants,g/capita/day
+1968,0.352631579,Fat,Starchy roots,g/capita/day
+1968,0.010526316,Fat,Sweeteners,g/capita/day
+1968,0.275,Fat,Vegetables,g/capita/day
+1968,114.4989185,Food Weight,Alcoholic beverages,g/capita/day
+1968,377.3233598,Food Weight,Animal products,g/capita/day
+1968,176.4275415,Food Weight,Fruits,g/capita/day
+1968,334.81615,Food Weight,Grains,g/capita/day
+1968,0,Food Weight,Miscellaneous,g/capita/day
+1968,49.47188176,Food Weight,Oils,g/capita/day
+1968,18.70043259,Food Weight,Pulses,g/capita/day
+1968,8.139870224,Food Weight,Spices & stimulants,g/capita/day
+1968,232.8803172,Food Weight,Starchy roots,g/capita/day
+1968,74.49170872,Food Weight,Sweeteners,g/capita/day
+1968,139.5223504,Food Weight,Vegetables,g/capita/day
+1968,0.803289474,Protein,Alcoholic beverages,g/capita/day
+1968,25.00460526,Protein,Animal products,g/capita/day
+1968,1.046052632,Protein,Fruits,g/capita/day
+1968,26.12763158,Protein,Grains,g/capita/day
+1968,0.058552632,Protein,Miscellaneous,g/capita/day
+1968,1.782894737,Protein,Oils,g/capita/day
+1968,4.080263158,Protein,Pulses,g/capita/day
+1968,0.6125,Protein,Spices & stimulants,g/capita/day
+1968,2.913815789,Protein,Starchy roots,g/capita/day
+1968,0.022368421,Protein,Sweeteners,g/capita/day
+1968,1.717105263,Protein,Vegetables,g/capita/day
+1969,88.56578947,Calories,Alcoholic beverages,kcal/capita/day
+1969,419.0986842,Calories,Animal products,kcal/capita/day
+1969,92.21052632,Calories,Fruits,kcal/capita/day
+1969,1007,Calories,Grains,kcal/capita/day
+1969,1.671052632,Calories,Miscellaneous,kcal/capita/day
+1969,218.3157895,Calories,Oils,kcal/capita/day
+1969,62.84868421,Calories,Pulses,kcal/capita/day
+1969,9.888157895,Calories,Spices & stimulants,kcal/capita/day
+1969,203.8552632,Calories,Starchy roots,kcal/capita/day
+1969,253.1118421,Calories,Sweeteners,kcal/capita/day
+1969,34.5,Calories,Vegetables,kcal/capita/day
+1969,0.094736842,Fat,Alcoholic beverages,g/capita/day
+1969,30.46052632,Fat,Animal products,g/capita/day
+1969,0.531578947,Fat,Fruits,g/capita/day
+1969,5.480263158,Fat,Grains,g/capita/day
+1969,0.011842105,Fat,Miscellaneous,g/capita/day
+1969,22.73289474,Fat,Oils,g/capita/day
+1969,0.336184211,Fat,Pulses,g/capita/day
+1969,0.451315789,Fat,Spices & stimulants,g/capita/day
+1969,0.35,Fat,Starchy roots,g/capita/day
+1969,0.009868421,Fat,Sweeteners,g/capita/day
+1969,0.280921053,Fat,Vegetables,g/capita/day
+1969,117.9470079,Food Weight,Alcoholic beverages,g/capita/day
+1969,381.6222062,Food Weight,Animal products,g/capita/day
+1969,176.3680606,Food Weight,Fruits,g/capita/day
+1969,336.2004326,Food Weight,Grains,g/capita/day
+1969,0,Food Weight,Miscellaneous,g/capita/day
+1969,50.29379957,Food Weight,Oils,g/capita/day
+1969,18.54361932,Food Weight,Pulses,g/capita/day
+1969,8.228190339,Food Weight,Spices & stimulants,g/capita/day
+1969,231.9124009,Food Weight,Starchy roots,g/capita/day
+1969,75.6146359,Food Weight,Sweeteners,g/capita/day
+1969,140.4596251,Food Weight,Vegetables,g/capita/day
+1969,0.830921053,Protein,Alcoholic beverages,g/capita/day
+1969,25.31776316,Protein,Animal products,g/capita/day
+1969,1.045394737,Protein,Fruits,g/capita/day
+1969,26.24934211,Protein,Grains,g/capita/day
+1969,0.059210526,Protein,Miscellaneous,g/capita/day
+1969,1.777631579,Protein,Oils,g/capita/day
+1969,4.036842105,Protein,Pulses,g/capita/day
+1969,0.611842105,Protein,Spices & stimulants,g/capita/day
+1969,2.909868421,Protein,Starchy roots,g/capita/day
+1969,0.025,Protein,Sweeteners,g/capita/day
+1969,1.726973684,Protein,Vegetables,g/capita/day
+1970,90.71710526,Calories,Alcoholic beverages,kcal/capita/day
+1970,427.5855263,Calories,Animal products,kcal/capita/day
+1970,92.93421053,Calories,Fruits,kcal/capita/day
+1970,1006.717105,Calories,Grains,kcal/capita/day
+1970,1.710526316,Calories,Miscellaneous,kcal/capita/day
+1970,222.1447368,Calories,Oils,kcal/capita/day
+1970,62.52631579,Calories,Pulses,kcal/capita/day
+1970,10.57236842,Calories,Spices & stimulants,kcal/capita/day
+1970,202.9407895,Calories,Starchy roots,kcal/capita/day
+1970,257.3947368,Calories,Sweeteners,kcal/capita/day
+1970,35.29605263,Calories,Vegetables,kcal/capita/day
+1970,0.094078947,Fat,Alcoholic beverages,g/capita/day
+1970,31.02368421,Fat,Animal products,g/capita/day
+1970,0.530921053,Fat,Fruits,g/capita/day
+1970,5.477631579,Fat,Grains,g/capita/day
+1970,0.011842105,Fat,Miscellaneous,g/capita/day
+1970,23.15460526,Fat,Oils,g/capita/day
+1970,0.333552632,Fat,Pulses,g/capita/day
+1970,0.511184211,Fat,Spices & stimulants,g/capita/day
+1970,0.348684211,Fat,Starchy roots,g/capita/day
+1970,0.009868421,Fat,Sweeteners,g/capita/day
+1970,0.284210526,Fat,Vegetables,g/capita/day
+1970,122.1989906,Food Weight,Alcoholic beverages,g/capita/day
+1970,389.1618601,Food Weight,Animal products,g/capita/day
+1970,178.4390771,Food Weight,Fruits,g/capita/day
+1970,335.4524153,Food Weight,Grains,g/capita/day
+1970,0,Food Weight,Miscellaneous,g/capita/day
+1970,50.85616438,Food Weight,Oils,g/capita/day
+1970,18.46070656,Food Weight,Pulses,g/capita/day
+1970,8.193943764,Food Weight,Spices & stimulants,g/capita/day
+1970,230.6939438,Food Weight,Starchy roots,g/capita/day
+1970,76.99351117,Food Weight,Sweeteners,g/capita/day
+1970,142.2422495,Food Weight,Vegetables,g/capita/day
+1970,0.845394737,Protein,Alcoholic beverages,g/capita/day
+1970,25.96513158,Protein,Animal products,g/capita/day
+1970,1.053947368,Protein,Fruits,g/capita/day
+1970,26.21578947,Protein,Grains,g/capita/day
+1970,0.060526316,Protein,Miscellaneous,g/capita/day
+1970,1.805263158,Protein,Oils,g/capita/day
+1970,4.015131579,Protein,Pulses,g/capita/day
+1970,0.609210526,Protein,Spices & stimulants,g/capita/day
+1970,2.888157895,Protein,Starchy roots,g/capita/day
+1970,0.021710526,Protein,Sweeteners,g/capita/day
+1970,1.765131579,Protein,Vegetables,g/capita/day
+1971,92.44078947,Calories,Alcoholic beverages,kcal/capita/day
+1971,430.9144737,Calories,Animal products,kcal/capita/day
+1971,92.78289474,Calories,Fruits,kcal/capita/day
+1971,1008.572368,Calories,Grains,kcal/capita/day
+1971,1.789473684,Calories,Miscellaneous,kcal/capita/day
+1971,226.6578947,Calories,Oils,kcal/capita/day
+1971,63.19078947,Calories,Pulses,kcal/capita/day
+1971,10.54605263,Calories,Spices & stimulants,kcal/capita/day
+1971,201.0526316,Calories,Starchy roots,kcal/capita/day
+1971,259.3026316,Calories,Sweeteners,kcal/capita/day
+1971,36.06578947,Calories,Vegetables,kcal/capita/day
+1971,0.088815789,Fat,Alcoholic beverages,g/capita/day
+1971,31.29671053,Fat,Animal products,g/capita/day
+1971,0.525657895,Fat,Fruits,g/capita/day
+1971,5.484210526,Fat,Grains,g/capita/day
+1971,0.011842105,Fat,Miscellaneous,g/capita/day
+1971,23.66776316,Fat,Oils,g/capita/day
+1971,0.334868421,Fat,Pulses,g/capita/day
+1971,0.506578947,Fat,Spices & stimulants,g/capita/day
+1971,0.342105263,Fat,Starchy roots,g/capita/day
+1971,0.008552632,Fat,Sweeteners,g/capita/day
+1971,0.295394737,Fat,Vegetables,g/capita/day
+1971,125.1081471,Food Weight,Alcoholic beverages,g/capita/day
+1971,393.314708,Food Weight,Animal products,g/capita/day
+1971,179.3366979,Food Weight,Fruits,g/capita/day
+1971,336.2256669,Food Weight,Grains,g/capita/day
+1971,0,Food Weight,Miscellaneous,g/capita/day
+1971,51.87454939,Food Weight,Oils,g/capita/day
+1971,18.6517664,Food Weight,Pulses,g/capita/day
+1971,8.314708003,Food Weight,Spices & stimulants,g/capita/day
+1971,229.001442,Food Weight,Starchy roots,g/capita/day
+1971,77.33417448,Food Weight,Sweeteners,g/capita/day
+1971,147.7919971,Food Weight,Vegetables,g/capita/day
+1971,0.846710526,Protein,Alcoholic beverages,g/capita/day
+1971,26.10197368,Protein,Animal products,g/capita/day
+1971,1.0625,Protein,Fruits,g/capita/day
+1971,26.21118421,Protein,Grains,g/capita/day
+1971,0.060526316,Protein,Miscellaneous,g/capita/day
+1971,1.831578947,Protein,Oils,g/capita/day
+1971,4.058552632,Protein,Pulses,g/capita/day
+1971,0.619078947,Protein,Spices & stimulants,g/capita/day
+1971,2.883552632,Protein,Starchy roots,g/capita/day
+1971,0.019736842,Protein,Sweeteners,g/capita/day
+1971,1.793421053,Protein,Vegetables,g/capita/day
+1972,90.39473684,Calories,Alcoholic beverages,kcal/capita/day
+1972,430.2763158,Calories,Animal products,kcal/capita/day
+1972,92.125,Calories,Fruits,kcal/capita/day
+1972,1000.065789,Calories,Grains,kcal/capita/day
+1972,1.644736842,Calories,Miscellaneous,kcal/capita/day
+1972,230.2631579,Calories,Oils,kcal/capita/day
+1972,62.90131579,Calories,Pulses,kcal/capita/day
+1972,10.93421053,Calories,Spices & stimulants,kcal/capita/day
+1972,195.4144737,Calories,Starchy roots,kcal/capita/day
+1972,260.2631579,Calories,Sweeteners,kcal/capita/day
+1972,35.73684211,Calories,Vegetables,kcal/capita/day
+1972,0.082894737,Fat,Alcoholic beverages,g/capita/day
+1972,31.175,Fat,Animal products,g/capita/day
+1972,0.528947368,Fat,Fruits,g/capita/day
+1972,5.415789474,Fat,Grains,g/capita/day
+1972,0.010526316,Fat,Miscellaneous,g/capita/day
+1972,24.11907895,Fat,Oils,g/capita/day
+1972,0.334868421,Fat,Pulses,g/capita/day
+1972,0.533552632,Fat,Spices & stimulants,g/capita/day
+1972,0.325657895,Fat,Starchy roots,g/capita/day
+1972,0.007236842,Fat,Sweeteners,g/capita/day
+1972,0.290789474,Fat,Vegetables,g/capita/day
+1972,122.128695,Food Weight,Alcoholic beverages,g/capita/day
+1972,394.8666186,Food Weight,Animal products,g/capita/day
+1972,179.149243,Food Weight,Fruits,g/capita/day
+1972,333.7527037,Food Weight,Grains,g/capita/day
+1972,0,Food Weight,Miscellaneous,g/capita/day
+1972,52.24945927,Food Weight,Oils,g/capita/day
+1972,18.56524874,Food Weight,Pulses,g/capita/day
+1972,8.464311464,Food Weight,Spices & stimulants,g/capita/day
+1972,222.3449892,Food Weight,Starchy roots,g/capita/day
+1972,77.42790195,Food Weight,Sweeteners,g/capita/day
+1972,146.2545061,Food Weight,Vegetables,g/capita/day
+1972,0.821710526,Protein,Alcoholic beverages,g/capita/day
+1972,26.32697368,Protein,Animal products,g/capita/day
+1972,1.054605263,Protein,Fruits,g/capita/day
+1972,26.01184211,Protein,Grains,g/capita/day
+1972,0.058552632,Protein,Miscellaneous,g/capita/day
+1972,1.813815789,Protein,Oils,g/capita/day
+1972,4.046710526,Protein,Pulses,g/capita/day
+1972,0.632236842,Protein,Spices & stimulants,g/capita/day
+1972,2.782894737,Protein,Starchy roots,g/capita/day
+1972,0.020394737,Protein,Sweeteners,g/capita/day
+1972,1.778947368,Protein,Vegetables,g/capita/day
+1973,92.90131579,Calories,Alcoholic beverages,kcal/capita/day
+1973,427.2960526,Calories,Animal products,kcal/capita/day
+1973,93.57894737,Calories,Fruits,kcal/capita/day
+1973,1011.539474,Calories,Grains,kcal/capita/day
+1973,1.940789474,Calories,Miscellaneous,kcal/capita/day
+1973,231.6578947,Calories,Oils,kcal/capita/day
+1973,60.96052632,Calories,Pulses,kcal/capita/day
+1973,11.38157895,Calories,Spices & stimulants,kcal/capita/day
+1973,196.6973684,Calories,Starchy roots,kcal/capita/day
+1973,261.1381579,Calories,Sweeteners,kcal/capita/day
+1973,35.97368421,Calories,Vegetables,kcal/capita/day
+1973,0.084210526,Fat,Alcoholic beverages,g/capita/day
+1973,30.84868421,Fat,Animal products,g/capita/day
+1973,0.538157895,Fat,Fruits,g/capita/day
+1973,5.496052632,Fat,Grains,g/capita/day
+1973,0.017105263,Fat,Miscellaneous,g/capita/day
+1973,24.30065789,Fat,Oils,g/capita/day
+1973,0.323684211,Fat,Pulses,g/capita/day
+1973,0.561184211,Fat,Spices & stimulants,g/capita/day
+1973,0.326973684,Fat,Starchy roots,g/capita/day
+1973,0.008552632,Fat,Sweeteners,g/capita/day
+1973,0.291447368,Fat,Vegetables,g/capita/day
+1973,125.6326604,Food Weight,Alcoholic beverages,g/capita/day
+1973,396.1733958,Food Weight,Animal products,g/capita/day
+1973,182.2296323,Food Weight,Fruits,g/capita/day
+1973,338.8716655,Food Weight,Grains,g/capita/day
+1973,0,Food Weight,Miscellaneous,g/capita/day
+1973,52.67303533,Food Weight,Oils,g/capita/day
+1973,17.96503244,Food Weight,Pulses,g/capita/day
+1973,8.577865898,Food Weight,Spices & stimulants,g/capita/day
+1973,224.057318,Food Weight,Starchy roots,g/capita/day
+1973,77.61715934,Food Weight,Sweeteners,g/capita/day
+1973,146.2743331,Food Weight,Vegetables,g/capita/day
+1973,0.8375,Protein,Alcoholic beverages,g/capita/day
+1973,26.20592105,Protein,Animal products,g/capita/day
+1973,1.075657895,Protein,Fruits,g/capita/day
+1973,26.31184211,Protein,Grains,g/capita/day
+1973,0.069078947,Protein,Miscellaneous,g/capita/day
+1973,1.795394737,Protein,Oils,g/capita/day
+1973,3.909868421,Protein,Pulses,g/capita/day
+1973,0.638815789,Protein,Spices & stimulants,g/capita/day
+1973,2.800657895,Protein,Starchy roots,g/capita/day
+1973,0.019736842,Protein,Sweeteners,g/capita/day
+1973,1.8,Protein,Vegetables,g/capita/day
+1974,92.59210526,Calories,Alcoholic beverages,kcal/capita/day
+1974,431.1710526,Calories,Animal products,kcal/capita/day
+1974,92.58552632,Calories,Fruits,kcal/capita/day
+1974,1015.236842,Calories,Grains,kcal/capita/day
+1974,2.526315789,Calories,Miscellaneous,kcal/capita/day
+1974,233.2039474,Calories,Oils,kcal/capita/day
+1974,60.08552632,Calories,Pulses,kcal/capita/day
+1974,11.28947368,Calories,Spices & stimulants,kcal/capita/day
+1974,193.8223684,Calories,Starchy roots,kcal/capita/day
+1974,259.9868421,Calories,Sweeteners,kcal/capita/day
+1974,37.48026316,Calories,Vegetables,kcal/capita/day
+1974,0.083552632,Fat,Alcoholic beverages,g/capita/day
+1974,31.09934211,Fat,Animal products,g/capita/day
+1974,0.532894737,Fat,Fruits,g/capita/day
+1974,5.532236842,Fat,Grains,g/capita/day
+1974,0.025,Fat,Miscellaneous,g/capita/day
+1974,24.43947368,Fat,Oils,g/capita/day
+1974,0.318421053,Fat,Pulses,g/capita/day
+1974,0.557894737,Fat,Spices & stimulants,g/capita/day
+1974,0.326315789,Fat,Starchy roots,g/capita/day
+1974,0.007894737,Fat,Sweeteners,g/capita/day
+1974,0.305263158,Fat,Vegetables,g/capita/day
+1974,126.9790916,Food Weight,Alcoholic beverages,g/capita/day
+1974,402.9686373,Food Weight,Animal products,g/capita/day
+1974,180.46323,Food Weight,Fruits,g/capita/day
+1974,338.3543619,Food Weight,Grains,g/capita/day
+1974,0,Food Weight,Miscellaneous,g/capita/day
+1974,52.83165105,Food Weight,Oils,g/capita/day
+1974,17.71268926,Food Weight,Pulses,g/capita/day
+1974,8.534607066,Food Weight,Spices & stimulants,g/capita/day
+1974,221.0706561,Food Weight,Starchy roots,g/capita/day
+1974,77.50540735,Food Weight,Sweeteners,g/capita/day
+1974,152.759553,Food Weight,Vegetables,g/capita/day
+1974,0.814473684,Protein,Alcoholic beverages,g/capita/day
+1974,26.53092105,Protein,Animal products,g/capita/day
+1974,1.061842105,Protein,Fruits,g/capita/day
+1974,26.33815789,Protein,Grains,g/capita/day
+1974,0.088157895,Protein,Miscellaneous,g/capita/day
+1974,1.836184211,Protein,Oils,g/capita/day
+1974,3.855263158,Protein,Pulses,g/capita/day
+1974,0.636842105,Protein,Spices & stimulants,g/capita/day
+1974,2.764473684,Protein,Starchy roots,g/capita/day
+1974,0.021710526,Protein,Sweeteners,g/capita/day
+1974,1.868421053,Protein,Vegetables,g/capita/day
+1975,94.90131579,Calories,Alcoholic beverages,kcal/capita/day
+1975,434.7697368,Calories,Animal products,kcal/capita/day
+1975,93.56578947,Calories,Fruits,kcal/capita/day
+1975,1011.388158,Calories,Grains,kcal/capita/day
+1975,2.427631579,Calories,Miscellaneous,kcal/capita/day
+1975,236.3947368,Calories,Oils,kcal/capita/day
+1975,61.21052632,Calories,Pulses,kcal/capita/day
+1975,11.13815789,Calories,Spices & stimulants,kcal/capita/day
+1975,192.8881579,Calories,Starchy roots,kcal/capita/day
+1975,252.4144737,Calories,Sweeteners,kcal/capita/day
+1975,37.77631579,Calories,Vegetables,kcal/capita/day
+1975,0.0875,Fat,Alcoholic beverages,g/capita/day
+1975,31.35131579,Fat,Animal products,g/capita/day
+1975,0.527631579,Fat,Fruits,g/capita/day
+1975,5.536842105,Fat,Grains,g/capita/day
+1975,0.023026316,Fat,Miscellaneous,g/capita/day
+1975,24.82565789,Fat,Oils,g/capita/day
+1975,0.318421053,Fat,Pulses,g/capita/day
+1975,0.531578947,Fat,Spices & stimulants,g/capita/day
+1975,0.331578947,Fat,Starchy roots,g/capita/day
+1975,0.008552632,Fat,Sweeteners,g/capita/day
+1975,0.308552632,Fat,Vegetables,g/capita/day
+1975,127.8280461,Food Weight,Alcoholic beverages,g/capita/day
+1975,403.8031723,Food Weight,Animal products,g/capita/day
+1975,182.8947368,Food Weight,Fruits,g/capita/day
+1975,337.0025234,Food Weight,Grains,g/capita/day
+1975,0,Food Weight,Miscellaneous,g/capita/day
+1975,53.27325162,Food Weight,Oils,g/capita/day
+1975,18.02631579,Food Weight,Pulses,g/capita/day
+1975,8.768925739,Food Weight,Spices & stimulants,g/capita/day
+1975,219.81615,Food Weight,Starchy roots,g/capita/day
+1975,75.33886085,Food Weight,Sweeteners,g/capita/day
+1975,156.1770007,Food Weight,Vegetables,g/capita/day
+1975,0.830921053,Protein,Alcoholic beverages,g/capita/day
+1975,27.04868421,Protein,Animal products,g/capita/day
+1975,1.069736842,Protein,Fruits,g/capita/day
+1975,26.24276316,Protein,Grains,g/capita/day
+1975,0.089473684,Protein,Miscellaneous,g/capita/day
+1975,1.826973684,Protein,Oils,g/capita/day
+1975,3.932894737,Protein,Pulses,g/capita/day
+1975,0.648026316,Protein,Spices & stimulants,g/capita/day
+1975,2.736184211,Protein,Starchy roots,g/capita/day
+1975,0.020394737,Protein,Sweeteners,g/capita/day
+1975,1.888157895,Protein,Vegetables,g/capita/day
+1976,95.18421053,Calories,Alcoholic beverages,kcal/capita/day
+1976,443.9473684,Calories,Animal products,kcal/capita/day
+1976,93.76315789,Calories,Fruits,kcal/capita/day
+1976,1015.861842,Calories,Grains,kcal/capita/day
+1976,2.585526316,Calories,Miscellaneous,kcal/capita/day
+1976,241.7565789,Calories,Oils,kcal/capita/day
+1976,61.68421053,Calories,Pulses,kcal/capita/day
+1976,11.29605263,Calories,Spices & stimulants,kcal/capita/day
+1976,190.7894737,Calories,Starchy roots,kcal/capita/day
+1976,260.8684211,Calories,Sweeteners,kcal/capita/day
+1976,37.5,Calories,Vegetables,kcal/capita/day
+1976,0.082894737,Fat,Alcoholic beverages,g/capita/day
+1976,31.85131579,Fat,Animal products,g/capita/day
+1976,0.524342105,Fat,Fruits,g/capita/day
+1976,5.563157895,Fat,Grains,g/capita/day
+1976,0.023684211,Fat,Miscellaneous,g/capita/day
+1976,25.38618421,Fat,Oils,g/capita/day
+1976,0.317763158,Fat,Pulses,g/capita/day
+1976,0.540789474,Fat,Spices & stimulants,g/capita/day
+1976,0.330263158,Fat,Starchy roots,g/capita/day
+1976,0.007236842,Fat,Sweeteners,g/capita/day
+1976,0.305263158,Fat,Vegetables,g/capita/day
+1976,129.3763518,Food Weight,Alcoholic beverages,g/capita/day
+1976,414.776496,Food Weight,Animal products,g/capita/day
+1976,184.2375631,Food Weight,Fruits,g/capita/day
+1976,338.5958904,Food Weight,Grains,g/capita/day
+1976,0,Food Weight,Miscellaneous,g/capita/day
+1976,53.77253064,Food Weight,Oils,g/capita/day
+1976,18.1705119,Food Weight,Pulses,g/capita/day
+1976,8.896899784,Food Weight,Spices & stimulants,g/capita/day
+1976,217.1395097,Food Weight,Starchy roots,g/capita/day
+1976,77.95241528,Food Weight,Sweeteners,g/capita/day
+1976,153.6031002,Food Weight,Vegetables,g/capita/day
+1976,0.813157895,Protein,Alcoholic beverages,g/capita/day
+1976,27.83355263,Protein,Animal products,g/capita/day
+1976,1.073684211,Protein,Fruits,g/capita/day
+1976,26.33026316,Protein,Grains,g/capita/day
+1976,0.095394737,Protein,Miscellaneous,g/capita/day
+1976,1.901973684,Protein,Oils,g/capita/day
+1976,3.963815789,Protein,Pulses,g/capita/day
+1976,0.661184211,Protein,Spices & stimulants,g/capita/day
+1976,2.709868421,Protein,Starchy roots,g/capita/day
+1976,0.019736842,Protein,Sweeteners,g/capita/day
+1976,1.878947368,Protein,Vegetables,g/capita/day
+1977,94.30263158,Calories,Alcoholic beverages,kcal/capita/day
+1977,449.2302632,Calories,Animal products,kcal/capita/day
+1977,93.01973684,Calories,Fruits,kcal/capita/day
+1977,1018.065789,Calories,Grains,kcal/capita/day
+1977,2.730263158,Calories,Miscellaneous,kcal/capita/day
+1977,243.3684211,Calories,Oils,kcal/capita/day
+1977,62.22368421,Calories,Pulses,kcal/capita/day
+1977,11.51315789,Calories,Spices & stimulants,kcal/capita/day
+1977,188.6776316,Calories,Starchy roots,kcal/capita/day
+1977,265.0986842,Calories,Sweeteners,kcal/capita/day
+1977,38.55263158,Calories,Vegetables,kcal/capita/day
+1977,0.070394737,Fat,Alcoholic beverages,g/capita/day
+1977,32.16644737,Fat,Animal products,g/capita/day
+1977,0.521052632,Fat,Fruits,g/capita/day
+1977,5.488815789,Fat,Grains,g/capita/day
+1977,0.023026316,Fat,Miscellaneous,g/capita/day
+1977,25.60855263,Fat,Oils,g/capita/day
+1977,0.319078947,Fat,Pulses,g/capita/day
+1977,0.580263158,Fat,Spices & stimulants,g/capita/day
+1977,0.323026316,Fat,Starchy roots,g/capita/day
+1977,0.008552632,Fat,Sweeteners,g/capita/day
+1977,0.313157895,Fat,Vegetables,g/capita/day
+1977,128.3381399,Food Weight,Alcoholic beverages,g/capita/day
+1977,421.6330209,Food Weight,Animal products,g/capita/day
+1977,182.8172314,Food Weight,Fruits,g/capita/day
+1977,340.3334535,Food Weight,Grains,g/capita/day
+1977,0,Food Weight,Miscellaneous,g/capita/day
+1977,53.66618601,Food Weight,Oils,g/capita/day
+1977,18.35436193,Food Weight,Pulses,g/capita/day
+1977,8.372386446,Food Weight,Spices & stimulants,g/capita/day
+1977,215.4325883,Food Weight,Starchy roots,g/capita/day
+1977,79.58363374,Food Weight,Sweeteners,g/capita/day
+1977,156.5392934,Food Weight,Vegetables,g/capita/day
+1977,0.767763158,Protein,Alcoholic beverages,g/capita/day
+1977,28.10921053,Protein,Animal products,g/capita/day
+1977,1.0625,Protein,Fruits,g/capita/day
+1977,26.41644737,Protein,Grains,g/capita/day
+1977,0.1,Protein,Miscellaneous,g/capita/day
+1977,1.853289474,Protein,Oils,g/capita/day
+1977,4.008552632,Protein,Pulses,g/capita/day
+1977,0.623684211,Protein,Spices & stimulants,g/capita/day
+1977,2.682894737,Protein,Starchy roots,g/capita/day
+1977,0.021052632,Protein,Sweeteners,g/capita/day
+1977,1.913815789,Protein,Vegetables,g/capita/day
+1978,94.05921053,Calories,Alcoholic beverages,kcal/capita/day
+1978,458.8223684,Calories,Animal products,kcal/capita/day
+1978,93.45394737,Calories,Fruits,kcal/capita/day
+1978,1023.467105,Calories,Grains,kcal/capita/day
+1978,2.901315789,Calories,Miscellaneous,kcal/capita/day
+1978,246.7697368,Calories,Oils,kcal/capita/day
+1978,62.07894737,Calories,Pulses,kcal/capita/day
+1978,11.99342105,Calories,Spices & stimulants,kcal/capita/day
+1978,190.1184211,Calories,Starchy roots,kcal/capita/day
+1978,270.7039474,Calories,Sweeteners,kcal/capita/day
+1978,39.70394737,Calories,Vegetables,kcal/capita/day
+1978,0.076315789,Fat,Alcoholic beverages,g/capita/day
+1978,32.72236842,Fat,Animal products,g/capita/day
+1978,0.523684211,Fat,Fruits,g/capita/day
+1978,5.611184211,Fat,Grains,g/capita/day
+1978,0.026973684,Fat,Miscellaneous,g/capita/day
+1978,25.99342105,Fat,Oils,g/capita/day
+1978,0.320394737,Fat,Pulses,g/capita/day
+1978,0.584210526,Fat,Spices & stimulants,g/capita/day
+1978,0.325657895,Fat,Starchy roots,g/capita/day
+1978,0.007894737,Fat,Sweeteners,g/capita/day
+1978,0.323026316,Fat,Vegetables,g/capita/day
+1978,128.3669791,Food Weight,Alcoholic beverages,g/capita/day
+1978,431.8457102,Food Weight,Animal products,g/capita/day
+1978,182.983057,Food Weight,Fruits,g/capita/day
+1978,342.1359048,Food Weight,Grains,g/capita/day
+1978,0,Food Weight,Miscellaneous,g/capita/day
+1978,54.00324441,Food Weight,Oils,g/capita/day
+1978,18.32011536,Food Weight,Pulses,g/capita/day
+1978,8.74369142,Food Weight,Spices & stimulants,g/capita/day
+1978,216.5428983,Food Weight,Starchy roots,g/capita/day
+1978,80.98233598,Food Weight,Sweeteners,g/capita/day
+1978,162.0115357,Food Weight,Vegetables,g/capita/day
+1978,0.779605263,Protein,Alcoholic beverages,g/capita/day
+1978,28.92171053,Protein,Animal products,g/capita/day
+1978,1.053947368,Protein,Fruits,g/capita/day
+1978,26.54868421,Protein,Grains,g/capita/day
+1978,0.111184211,Protein,Miscellaneous,g/capita/day
+1978,1.815789474,Protein,Oils,g/capita/day
+1978,4.008552632,Protein,Pulses,g/capita/day
+1978,0.652631579,Protein,Spices & stimulants,g/capita/day
+1978,2.703947368,Protein,Starchy roots,g/capita/day
+1978,0.020394737,Protein,Sweeteners,g/capita/day
+1978,1.974342105,Protein,Vegetables,g/capita/day
+1979,94.73026316,Calories,Alcoholic beverages,kcal/capita/day
+1979,463.9802632,Calories,Animal products,kcal/capita/day
+1979,95.88815789,Calories,Fruits,kcal/capita/day
+1979,1032.065789,Calories,Grains,kcal/capita/day
+1979,3.177631579,Calories,Miscellaneous,kcal/capita/day
+1979,249.9144737,Calories,Oils,kcal/capita/day
+1979,61.19078947,Calories,Pulses,kcal/capita/day
+1979,12.35526316,Calories,Spices & stimulants,kcal/capita/day
+1979,186.2105263,Calories,Starchy roots,kcal/capita/day
+1979,272.2960526,Calories,Sweeteners,kcal/capita/day
+1979,40.28947368,Calories,Vegetables,kcal/capita/day
+1979,0.078289474,Fat,Alcoholic beverages,g/capita/day
+1979,33.24802632,Fat,Animal products,g/capita/day
+1979,0.529605263,Fat,Fruits,g/capita/day
+1979,5.723684211,Fat,Grains,g/capita/day
+1979,0.028947368,Fat,Miscellaneous,g/capita/day
+1979,26.33486842,Fat,Oils,g/capita/day
+1979,0.317105263,Fat,Pulses,g/capita/day
+1979,0.596710526,Fat,Spices & stimulants,g/capita/day
+1979,0.317105263,Fat,Starchy roots,g/capita/day
+1979,0.007236842,Fat,Sweeteners,g/capita/day
+1979,0.329605263,Fat,Vegetables,g/capita/day
+1979,129.516943,Food Weight,Alcoholic beverages,g/capita/day
+1979,434.9981975,Food Weight,Animal products,g/capita/day
+1979,187.5648882,Food Weight,Fruits,g/capita/day
+1979,345.1135544,Food Weight,Grains,g/capita/day
+1979,0,Food Weight,Miscellaneous,g/capita/day
+1979,53.90771449,Food Weight,Oils,g/capita/day
+1979,18.02992069,Food Weight,Pulses,g/capita/day
+1979,9.313266042,Food Weight,Spices & stimulants,g/capita/day
+1979,212.4963951,Food Weight,Starchy roots,g/capita/day
+1979,81.52126893,Food Weight,Sweeteners,g/capita/day
+1979,164.4160058,Food Weight,Vegetables,g/capita/day
+1979,0.798026316,Protein,Alcoholic beverages,g/capita/day
+1979,28.9875,Protein,Animal products,g/capita/day
+1979,1.075,Protein,Fruits,g/capita/day
+1979,26.675,Protein,Grains,g/capita/day
+1979,0.118421053,Protein,Miscellaneous,g/capita/day
+1979,1.838815789,Protein,Oils,g/capita/day
+1979,3.946710526,Protein,Pulses,g/capita/day
+1979,0.689473684,Protein,Spices & stimulants,g/capita/day
+1979,2.669078947,Protein,Starchy roots,g/capita/day
+1979,0.021052632,Protein,Sweeteners,g/capita/day
+1979,2,Protein,Vegetables,g/capita/day
+1980,93.61184211,Calories,Alcoholic beverages,kcal/capita/day
+1980,472.7171053,Calories,Animal products,kcal/capita/day
+1980,94.82894737,Calories,Fruits,kcal/capita/day
+1980,1042.394737,Calories,Grains,kcal/capita/day
+1980,3.355263158,Calories,Miscellaneous,kcal/capita/day
+1980,255,Calories,Oils,kcal/capita/day
+1980,61.29605263,Calories,Pulses,kcal/capita/day
+1980,12.76315789,Calories,Spices & stimulants,kcal/capita/day
+1980,184.0460526,Calories,Starchy roots,kcal/capita/day
+1980,275.2236842,Calories,Sweeteners,kcal/capita/day
+1980,40.65131579,Calories,Vegetables,kcal/capita/day
+1980,0.065789474,Fat,Alcoholic beverages,g/capita/day
+1980,33.90657895,Fat,Animal products,g/capita/day
+1980,0.526973684,Fat,Fruits,g/capita/day
+1980,5.854605263,Fat,Grains,g/capita/day
+1980,0.030921053,Fat,Miscellaneous,g/capita/day
+1980,26.98618421,Fat,Oils,g/capita/day
+1980,0.315789474,Fat,Pulses,g/capita/day
+1980,0.632894737,Fat,Spices & stimulants,g/capita/day
+1980,0.313157895,Fat,Starchy roots,g/capita/day
+1980,0.006578947,Fat,Sweeteners,g/capita/day
+1980,0.329605263,Fat,Vegetables,g/capita/day
+1980,129.5872386,Food Weight,Alcoholic beverages,g/capita/day
+1980,442.1178803,Food Weight,Animal products,g/capita/day
+1980,189.8846431,Food Weight,Fruits,g/capita/day
+1980,349.1456381,Food Weight,Grains,g/capita/day
+1980,0,Food Weight,Miscellaneous,g/capita/day
+1980,54.07714492,Food Weight,Oils,g/capita/day
+1980,18.08579668,Food Weight,Pulses,g/capita/day
+1980,9.374549387,Food Weight,Spices & stimulants,g/capita/day
+1980,210.0450613,Food Weight,Starchy roots,g/capita/day
+1980,82.34859409,Food Weight,Sweeteners,g/capita/day
+1980,165.998558,Food Weight,Vegetables,g/capita/day
+1980,0.740789474,Protein,Alcoholic beverages,g/capita/day
+1980,29.51381579,Protein,Animal products,g/capita/day
+1980,1.081578947,Protein,Fruits,g/capita/day
+1980,26.94342105,Protein,Grains,g/capita/day
+1980,0.126973684,Protein,Miscellaneous,g/capita/day
+1980,1.802631579,Protein,Oils,g/capita/day
+1980,3.964473684,Protein,Pulses,g/capita/day
+1980,0.682894737,Protein,Spices & stimulants,g/capita/day
+1980,2.640789474,Protein,Starchy roots,g/capita/day
+1980,0.021052632,Protein,Sweeteners,g/capita/day
+1980,2.014473684,Protein,Vegetables,g/capita/day
+1981,95.22368421,Calories,Alcoholic beverages,kcal/capita/day
+1981,474.4342105,Calories,Animal products,kcal/capita/day
+1981,92.90131579,Calories,Fruits,kcal/capita/day
+1981,1042.947368,Calories,Grains,kcal/capita/day
+1981,3.625,Calories,Miscellaneous,kcal/capita/day
+1981,261.8223684,Calories,Oils,kcal/capita/day
+1981,61.96710526,Calories,Pulses,kcal/capita/day
+1981,12.71710526,Calories,Spices & stimulants,kcal/capita/day
+1981,183.4407895,Calories,Starchy roots,kcal/capita/day
+1981,272.7434211,Calories,Sweeteners,kcal/capita/day
+1981,41.15789474,Calories,Vegetables,kcal/capita/day
+1981,0.078289474,Fat,Alcoholic beverages,g/capita/day
+1981,34.06315789,Fat,Animal products,g/capita/day
+1981,0.526973684,Fat,Fruits,g/capita/day
+1981,5.901315789,Fat,Grains,g/capita/day
+1981,0.030263158,Fat,Miscellaneous,g/capita/day
+1981,27.71118421,Fat,Oils,g/capita/day
+1981,0.321052632,Fat,Pulses,g/capita/day
+1981,0.618421053,Fat,Spices & stimulants,g/capita/day
+1981,0.314473684,Fat,Starchy roots,g/capita/day
+1981,0.007236842,Fat,Sweeteners,g/capita/day
+1981,0.336842105,Fat,Vegetables,g/capita/day
+1981,129.9783706,Food Weight,Alcoholic beverages,g/capita/day
+1981,443.035328,Food Weight,Animal products,g/capita/day
+1981,186.5447008,Food Weight,Fruits,g/capita/day
+1981,349.0032444,Food Weight,Grains,g/capita/day
+1981,0,Food Weight,Miscellaneous,g/capita/day
+1981,55.1333814,Food Weight,Oils,g/capita/day
+1981,18.28406633,Food Weight,Pulses,g/capita/day
+1981,9.558399423,Food Weight,Spices & stimulants,g/capita/day
+1981,209.7999279,Food Weight,Starchy roots,g/capita/day
+1981,81.78983417,Food Weight,Sweeteners,g/capita/day
+1981,169.4484499,Food Weight,Vegetables,g/capita/day
+1981,0.782236842,Protein,Alcoholic beverages,g/capita/day
+1981,29.72828947,Protein,Animal products,g/capita/day
+1981,1.056578947,Protein,Fruits,g/capita/day
+1981,26.89868421,Protein,Grains,g/capita/day
+1981,0.136842105,Protein,Miscellaneous,g/capita/day
+1981,1.875657895,Protein,Oils,g/capita/day
+1981,3.994736842,Protein,Pulses,g/capita/day
+1981,0.693421053,Protein,Spices & stimulants,g/capita/day
+1981,2.636842105,Protein,Starchy roots,g/capita/day
+1981,0.021052632,Protein,Sweeteners,g/capita/day
+1981,2.044078947,Protein,Vegetables,g/capita/day
+1982,94.24342105,Calories,Alcoholic beverages,kcal/capita/day
+1982,472.1184211,Calories,Animal products,kcal/capita/day
+1982,94.84868421,Calories,Fruits,kcal/capita/day
+1982,1036.467105,Calories,Grains,kcal/capita/day
+1982,3.434210526,Calories,Miscellaneous,kcal/capita/day
+1982,267.6513158,Calories,Oils,kcal/capita/day
+1982,60.84868421,Calories,Pulses,kcal/capita/day
+1982,12.97368421,Calories,Spices & stimulants,kcal/capita/day
+1982,180.7828947,Calories,Starchy roots,kcal/capita/day
+1982,273.7894737,Calories,Sweeteners,kcal/capita/day
+1982,42.24342105,Calories,Vegetables,kcal/capita/day
+1982,0.071052632,Fat,Alcoholic beverages,g/capita/day
+1982,33.86907895,Fat,Animal products,g/capita/day
+1982,0.538815789,Fat,Fruits,g/capita/day
+1982,5.802631579,Fat,Grains,g/capita/day
+1982,0.029605263,Fat,Miscellaneous,g/capita/day
+1982,28.38486842,Fat,Oils,g/capita/day
+1982,0.316447368,Fat,Pulses,g/capita/day
+1982,0.648026316,Fat,Spices & stimulants,g/capita/day
+1982,0.309868421,Fat,Starchy roots,g/capita/day
+1982,0.009210526,Fat,Sweeteners,g/capita/day
+1982,0.343421053,Fat,Vegetables,g/capita/day
+1982,129.1546503,Food Weight,Alcoholic beverages,g/capita/day
+1982,442.6045422,Food Weight,Animal products,g/capita/day
+1982,190.4920692,Food Weight,Fruits,g/capita/day
+1982,346.5699351,Food Weight,Grains,g/capita/day
+1982,0,Food Weight,Miscellaneous,g/capita/day
+1982,56.12292718,Food Weight,Oils,g/capita/day
+1982,17.97224225,Food Weight,Pulses,g/capita/day
+1982,9.403388608,Food Weight,Spices & stimulants,g/capita/day
+1982,207.5775054,Food Weight,Starchy roots,g/capita/day
+1982,82.26928623,Food Weight,Sweeteners,g/capita/day
+1982,173.294881,Food Weight,Vegetables,g/capita/day
+1982,0.740131579,Protein,Alcoholic beverages,g/capita/day
+1982,29.69210526,Protein,Animal products,g/capita/day
+1982,1.088157895,Protein,Fruits,g/capita/day
+1982,26.7,Protein,Grains,g/capita/day
+1982,0.126315789,Protein,Miscellaneous,g/capita/day
+1982,1.842105263,Protein,Oils,g/capita/day
+1982,3.928289474,Protein,Pulses,g/capita/day
+1982,0.690131579,Protein,Spices & stimulants,g/capita/day
+1982,2.616447368,Protein,Starchy roots,g/capita/day
+1982,0.019078947,Protein,Sweeteners,g/capita/day
+1982,2.0875,Protein,Vegetables,g/capita/day
+1983,93.52631579,Calories,Alcoholic beverages,kcal/capita/day
+1983,471.4144737,Calories,Animal products,kcal/capita/day
+1983,93.25,Calories,Fruits,kcal/capita/day
+1983,1046.322368,Calories,Grains,kcal/capita/day
+1983,3.473684211,Calories,Miscellaneous,kcal/capita/day
+1983,263.4736842,Calories,Oils,kcal/capita/day
+1983,60.34868421,Calories,Pulses,kcal/capita/day
+1983,13.09210526,Calories,Spices & stimulants,kcal/capita/day
+1983,176.2105263,Calories,Starchy roots,kcal/capita/day
+1983,273.9078947,Calories,Sweeteners,kcal/capita/day
+1983,41.47368421,Calories,Vegetables,kcal/capita/day
+1983,0.069736842,Fat,Alcoholic beverages,g/capita/day
+1983,33.81052632,Fat,Animal products,g/capita/day
+1983,0.5375,Fat,Fruits,g/capita/day
+1983,5.903947368,Fat,Grains,g/capita/day
+1983,0.030263158,Fat,Miscellaneous,g/capita/day
+1983,27.94605263,Fat,Oils,g/capita/day
+1983,0.3125,Fat,Pulses,g/capita/day
+1983,0.642763158,Fat,Spices & stimulants,g/capita/day
+1983,0.301973684,Fat,Starchy roots,g/capita/day
+1983,0.008552632,Fat,Sweeteners,g/capita/day
+1983,0.339473684,Fat,Vegetables,g/capita/day
+1983,128.4354722,Food Weight,Alcoholic beverages,g/capita/day
+1983,442.2999279,Food Weight,Animal products,g/capita/day
+1983,184.9891853,Food Weight,Fruits,g/capita/day
+1983,349.3493151,Food Weight,Grains,g/capita/day
+1983,0,Food Weight,Miscellaneous,g/capita/day
+1983,55.46503244,Food Weight,Oils,g/capita/day
+1983,17.81002163,Food Weight,Pulses,g/capita/day
+1983,9.614275415,Food Weight,Spices & stimulants,g/capita/day
+1983,201.9574621,Food Weight,Starchy roots,g/capita/day
+1983,81.75739005,Food Weight,Sweeteners,g/capita/day
+1983,170.3082192,Food Weight,Vegetables,g/capita/day
+1983,0.748684211,Protein,Alcoholic beverages,g/capita/day
+1983,29.58486842,Protein,Animal products,g/capita/day
+1983,1.061842105,Protein,Fruits,g/capita/day
+1983,26.98421053,Protein,Grains,g/capita/day
+1983,0.128947368,Protein,Miscellaneous,g/capita/day
+1983,1.760526316,Protein,Oils,g/capita/day
+1983,3.892763158,Protein,Pulses,g/capita/day
+1983,0.708552632,Protein,Spices & stimulants,g/capita/day
+1983,2.542105263,Protein,Starchy roots,g/capita/day
+1983,0.021710526,Protein,Sweeteners,g/capita/day
+1983,2.055921053,Protein,Vegetables,g/capita/day
+1984,91.30921053,Calories,Alcoholic beverages,kcal/capita/day
+1984,475.7894737,Calories,Animal products,kcal/capita/day
+1984,94.13157895,Calories,Fruits,kcal/capita/day
+1984,1047.875,Calories,Grains,kcal/capita/day
+1984,3.796052632,Calories,Miscellaneous,kcal/capita/day
+1984,268.5592105,Calories,Oils,kcal/capita/day
+1984,59.79605263,Calories,Pulses,kcal/capita/day
+1984,13.26973684,Calories,Spices & stimulants,kcal/capita/day
+1984,177.4539474,Calories,Starchy roots,kcal/capita/day
+1984,273.6315789,Calories,Sweeteners,kcal/capita/day
+1984,42.90131579,Calories,Vegetables,kcal/capita/day
+1984,0.067105263,Fat,Alcoholic beverages,g/capita/day
+1984,34.06842105,Fat,Animal products,g/capita/day
+1984,0.530263158,Fat,Fruits,g/capita/day
+1984,6.014473684,Fat,Grains,g/capita/day
+1984,0.033552632,Fat,Miscellaneous,g/capita/day
+1984,28.49013158,Fat,Oils,g/capita/day
+1984,0.314473684,Fat,Pulses,g/capita/day
+1984,0.653289474,Fat,Spices & stimulants,g/capita/day
+1984,0.310526316,Fat,Starchy roots,g/capita/day
+1984,0.010526316,Fat,Sweeteners,g/capita/day
+1984,0.346052632,Fat,Vegetables,g/capita/day
+1984,126.7664023,Food Weight,Alcoholic beverages,g/capita/day
+1984,448.4030281,Food Weight,Animal products,g/capita/day
+1984,187.6369863,Food Weight,Fruits,g/capita/day
+1984,345.8201154,Food Weight,Grains,g/capita/day
+1984,0,Food Weight,Miscellaneous,g/capita/day
+1984,56.46359048,Food Weight,Oils,g/capita/day
+1984,17.65501082,Food Weight,Pulses,g/capita/day
+1984,9.599855804,Food Weight,Spices & stimulants,g/capita/day
+1984,203.8067772,Food Weight,Starchy roots,g/capita/day
+1984,82.99026676,Food Weight,Sweeteners,g/capita/day
+1984,174.2934391,Food Weight,Vegetables,g/capita/day
+1984,0.719736842,Protein,Alcoholic beverages,g/capita/day
+1984,29.95921053,Protein,Animal products,g/capita/day
+1984,1.078947368,Protein,Fruits,g/capita/day
+1984,26.92763158,Protein,Grains,g/capita/day
+1984,0.143421053,Protein,Miscellaneous,g/capita/day
+1984,1.817763158,Protein,Oils,g/capita/day
+1984,3.855921053,Protein,Pulses,g/capita/day
+1984,0.714473684,Protein,Spices & stimulants,g/capita/day
+1984,2.584868421,Protein,Starchy roots,g/capita/day
+1984,0.025657895,Protein,Sweeteners,g/capita/day
+1984,2.133552632,Protein,Vegetables,g/capita/day
+1985,91.73684211,Calories,Alcoholic beverages,kcal/capita/day
+1985,479.6184211,Calories,Animal products,kcal/capita/day
+1985,93.75,Calories,Fruits,kcal/capita/day
+1985,1059.671053,Calories,Grains,kcal/capita/day
+1985,3.848684211,Calories,Miscellaneous,kcal/capita/day
+1985,270.0394737,Calories,Oils,kcal/capita/day
+1985,60.09210526,Calories,Pulses,kcal/capita/day
+1985,13.54605263,Calories,Spices & stimulants,kcal/capita/day
+1985,175.4868421,Calories,Starchy roots,kcal/capita/day
+1985,273.7960526,Calories,Sweeteners,kcal/capita/day
+1985,43.07894737,Calories,Vegetables,kcal/capita/day
+1985,0.069736842,Fat,Alcoholic beverages,g/capita/day
+1985,34.28815789,Fat,Animal products,g/capita/day
+1985,0.529605263,Fat,Fruits,g/capita/day
+1985,6.095394737,Fat,Grains,g/capita/day
+1985,0.036842105,Fat,Miscellaneous,g/capita/day
+1985,28.60723684,Fat,Oils,g/capita/day
+1985,0.307236842,Fat,Pulses,g/capita/day
+1985,0.697368421,Fat,Spices & stimulants,g/capita/day
+1985,0.301973684,Fat,Starchy roots,g/capita/day
+1985,0.009210526,Fat,Sweeteners,g/capita/day
+1985,0.352631579,Fat,Vegetables,g/capita/day
+1985,127.4369142,Food Weight,Alcoholic beverages,g/capita/day
+1985,452.204398,Food Weight,Animal products,g/capita/day
+1985,186.4798125,Food Weight,Fruits,g/capita/day
+1985,349.3439077,Food Weight,Grains,g/capita/day
+1985,0,Food Weight,Miscellaneous,g/capita/day
+1985,56.60237924,Food Weight,Oils,g/capita/day
+1985,17.73251622,Food Weight,Pulses,g/capita/day
+1985,9.657534246,Food Weight,Spices & stimulants,g/capita/day
+1985,201.5663302,Food Weight,Starchy roots,g/capita/day
+1985,82.86589762,Food Weight,Sweeteners,g/capita/day
+1985,176.1373468,Food Weight,Vegetables,g/capita/day
+1985,0.722368421,Protein,Alcoholic beverages,g/capita/day
+1985,30.29210526,Protein,Animal products,g/capita/day
+1985,1.074342105,Protein,Fruits,g/capita/day
+1985,27.24605263,Protein,Grains,g/capita/day
+1985,0.148026316,Protein,Miscellaneous,g/capita/day
+1985,1.864473684,Protein,Oils,g/capita/day
+1985,3.870394737,Protein,Pulses,g/capita/day
+1985,0.709868421,Protein,Spices & stimulants,g/capita/day
+1985,2.5625,Protein,Starchy roots,g/capita/day
+1985,0.025657895,Protein,Sweeteners,g/capita/day
+1985,2.125,Protein,Vegetables,g/capita/day
+1986,89.92763158,Calories,Alcoholic beverages,kcal/capita/day
+1986,474.7894737,Calories,Animal products,kcal/capita/day
+1986,93.66447368,Calories,Fruits,kcal/capita/day
+1986,1063.552632,Calories,Grains,kcal/capita/day
+1986,4.065789474,Calories,Miscellaneous,kcal/capita/day
+1986,276.7565789,Calories,Oils,kcal/capita/day
+1986,60.71710526,Calories,Pulses,kcal/capita/day
+1986,13.5,Calories,Spices & stimulants,kcal/capita/day
+1986,176.4934211,Calories,Starchy roots,kcal/capita/day
+1986,277.6513158,Calories,Sweeteners,kcal/capita/day
+1986,43.42105263,Calories,Vegetables,kcal/capita/day
+1986,0.061184211,Fat,Alcoholic beverages,g/capita/day
+1986,33.98552632,Fat,Animal products,g/capita/day
+1986,0.540789474,Fat,Fruits,g/capita/day
+1986,6.139473684,Fat,Grains,g/capita/day
+1986,0.035526316,Fat,Miscellaneous,g/capita/day
+1986,29.37697368,Fat,Oils,g/capita/day
+1986,0.314473684,Fat,Pulses,g/capita/day
+1986,0.680921053,Fat,Spices & stimulants,g/capita/day
+1986,0.300657895,Fat,Starchy roots,g/capita/day
+1986,0.008552632,Fat,Sweeteners,g/capita/day
+1986,0.351973684,Fat,Vegetables,g/capita/day
+1986,125.1171593,Food Weight,Alcoholic beverages,g/capita/day
+1986,447.5018024,Food Weight,Animal products,g/capita/day
+1986,187.4062725,Food Weight,Fruits,g/capita/day
+1986,349.7909156,Food Weight,Grains,g/capita/day
+1986,0,Food Weight,Miscellaneous,g/capita/day
+1986,57.52343187,Food Weight,Oils,g/capita/day
+1986,17.93078587,Food Weight,Pulses,g/capita/day
+1986,9.369142033,Food Weight,Spices & stimulants,g/capita/day
+1986,202.9397981,Food Weight,Starchy roots,g/capita/day
+1986,83.83922134,Food Weight,Sweeteners,g/capita/day
+1986,176.7321557,Food Weight,Vegetables,g/capita/day
+1986,0.717763158,Protein,Alcoholic beverages,g/capita/day
+1986,30.14407895,Protein,Animal products,g/capita/day
+1986,1.066447368,Protein,Fruits,g/capita/day
+1986,27.34605263,Protein,Grains,g/capita/day
+1986,0.155263158,Protein,Miscellaneous,g/capita/day
+1986,1.878947368,Protein,Oils,g/capita/day
+1986,3.916447368,Protein,Pulses,g/capita/day
+1986,0.692763158,Protein,Spices & stimulants,g/capita/day
+1986,2.581578947,Protein,Starchy roots,g/capita/day
+1986,0.025,Protein,Sweeteners,g/capita/day
+1986,2.132236842,Protein,Vegetables,g/capita/day
+1987,89.55263158,Calories,Alcoholic beverages,kcal/capita/day
+1987,479.5065789,Calories,Animal products,kcal/capita/day
+1987,95.49342105,Calories,Fruits,kcal/capita/day
+1987,1063.164474,Calories,Grains,kcal/capita/day
+1987,4.085526316,Calories,Miscellaneous,kcal/capita/day
+1987,278.2171053,Calories,Oils,kcal/capita/day
+1987,61.82894737,Calories,Pulses,kcal/capita/day
+1987,13.54605263,Calories,Spices & stimulants,kcal/capita/day
+1987,174.4210526,Calories,Starchy roots,kcal/capita/day
+1987,277.6381579,Calories,Sweeteners,kcal/capita/day
+1987,43.96052632,Calories,Vegetables,kcal/capita/day
+1987,0.063815789,Fat,Alcoholic beverages,g/capita/day
+1987,34.275,Fat,Animal products,g/capita/day
+1987,0.541447368,Fat,Fruits,g/capita/day
+1987,6.113157895,Fat,Grains,g/capita/day
+1987,0.0375,Fat,Miscellaneous,g/capita/day
+1987,29.47368421,Fat,Oils,g/capita/day
+1987,0.323684211,Fat,Pulses,g/capita/day
+1987,0.684868421,Fat,Spices & stimulants,g/capita/day
+1987,0.297368421,Fat,Starchy roots,g/capita/day
+1987,0.007894737,Fat,Sweeteners,g/capita/day
+1987,0.354605263,Fat,Vegetables,g/capita/day
+1987,125.7498198,Food Weight,Alcoholic beverages,g/capita/day
+1987,453.8374189,Food Weight,Animal products,g/capita/day
+1987,196.333814,Food Weight,Fruits,g/capita/day
+1987,350.1441961,Food Weight,Grains,g/capita/day
+1987,0,Food Weight,Miscellaneous,g/capita/day
+1987,57.5630858,Food Weight,Oils,g/capita/day
+1987,18.21196828,Food Weight,Pulses,g/capita/day
+1987,9.632299928,Food Weight,Spices & stimulants,g/capita/day
+1987,200.2685652,Food Weight,Starchy roots,g/capita/day
+1987,83.56885364,Food Weight,Sweeteners,g/capita/day
+1987,178.4516943,Food Weight,Vegetables,g/capita/day
+1987,0.727631579,Protein,Alcoholic beverages,g/capita/day
+1987,30.43026316,Protein,Animal products,g/capita/day
+1987,1.101315789,Protein,Fruits,g/capita/day
+1987,27.43947368,Protein,Grains,g/capita/day
+1987,0.157894737,Protein,Miscellaneous,g/capita/day
+1987,1.942105263,Protein,Oils,g/capita/day
+1987,3.9875,Protein,Pulses,g/capita/day
+1987,0.704605263,Protein,Spices & stimulants,g/capita/day
+1987,2.553289474,Protein,Starchy roots,g/capita/day
+1987,0.022368421,Protein,Sweeteners,g/capita/day
+1987,2.161842105,Protein,Vegetables,g/capita/day
+1988,89.93421053,Calories,Alcoholic beverages,kcal/capita/day
+1988,477.2368421,Calories,Animal products,kcal/capita/day
+1988,97.36184211,Calories,Fruits,kcal/capita/day
+1988,1071.302632,Calories,Grains,kcal/capita/day
+1988,3.703947368,Calories,Miscellaneous,kcal/capita/day
+1988,285.1184211,Calories,Oils,kcal/capita/day
+1988,61.30263158,Calories,Pulses,kcal/capita/day
+1988,13.96052632,Calories,Spices & stimulants,kcal/capita/day
+1988,175.4539474,Calories,Starchy roots,kcal/capita/day
+1988,275.8157895,Calories,Sweeteners,kcal/capita/day
+1988,44.30263158,Calories,Vegetables,kcal/capita/day
+1988,0.063157895,Fat,Alcoholic beverages,g/capita/day
+1988,34.15197368,Fat,Animal products,g/capita/day
+1988,0.544736842,Fat,Fruits,g/capita/day
+1988,6.2,Fat,Grains,g/capita/day
+1988,0.032894737,Fat,Miscellaneous,g/capita/day
+1988,30.25723684,Fat,Oils,g/capita/day
+1988,0.315131579,Fat,Pulses,g/capita/day
+1988,0.703289474,Fat,Spices & stimulants,g/capita/day
+1988,0.305263158,Fat,Starchy roots,g/capita/day
+1988,0.008552632,Fat,Sweeteners,g/capita/day
+1988,0.357894737,Fat,Vegetables,g/capita/day
+1988,125.3550829,Food Weight,Alcoholic beverages,g/capita/day
+1988,451.6258111,Food Weight,Animal products,g/capita/day
+1988,201.0886806,Food Weight,Fruits,g/capita/day
+1988,352.2710887,Food Weight,Grains,g/capita/day
+1988,0,Food Weight,Miscellaneous,g/capita/day
+1988,59.23035328,Food Weight,Oils,g/capita/day
+1988,18.08038933,Food Weight,Pulses,g/capita/day
+1988,9.738644556,Food Weight,Spices & stimulants,g/capita/day
+1988,201.0688536,Food Weight,Starchy roots,g/capita/day
+1988,83.00108147,Food Weight,Sweeteners,g/capita/day
+1988,178.2065609,Food Weight,Vegetables,g/capita/day
+1988,0.729605263,Protein,Alcoholic beverages,g/capita/day
+1988,30.36578947,Protein,Animal products,g/capita/day
+1988,1.116447368,Protein,Fruits,g/capita/day
+1988,27.66907895,Protein,Grains,g/capita/day
+1988,0.138157895,Protein,Miscellaneous,g/capita/day
+1988,1.935526316,Protein,Oils,g/capita/day
+1988,3.956578947,Protein,Pulses,g/capita/day
+1988,0.726315789,Protein,Spices & stimulants,g/capita/day
+1988,2.555921053,Protein,Starchy roots,g/capita/day
+1988,0.019736842,Protein,Sweeteners,g/capita/day
+1988,2.161184211,Protein,Vegetables,g/capita/day
+1989,90.60526316,Calories,Alcoholic beverages,kcal/capita/day
+1989,474.2039474,Calories,Animal products,kcal/capita/day
+1989,97.79605263,Calories,Fruits,kcal/capita/day
+1989,1070.763158,Calories,Grains,kcal/capita/day
+1989,3.914473684,Calories,Miscellaneous,kcal/capita/day
+1989,286,Calories,Oils,kcal/capita/day
+1989,60.36184211,Calories,Pulses,kcal/capita/day
+1989,14.32894737,Calories,Spices & stimulants,kcal/capita/day
+1989,172.8223684,Calories,Starchy roots,kcal/capita/day
+1989,276.0723684,Calories,Sweeteners,kcal/capita/day
+1989,44.92105263,Calories,Vegetables,kcal/capita/day
+1989,0.065789474,Fat,Alcoholic beverages,g/capita/day
+1989,34.00460526,Fat,Animal products,g/capita/day
+1989,0.541447368,Fat,Fruits,g/capita/day
+1989,6.307894737,Fat,Grains,g/capita/day
+1989,0.035526316,Fat,Miscellaneous,g/capita/day
+1989,30.32828947,Fat,Oils,g/capita/day
+1989,0.315131579,Fat,Pulses,g/capita/day
+1989,0.732894737,Fat,Spices & stimulants,g/capita/day
+1989,0.297368421,Fat,Starchy roots,g/capita/day
+1989,0.007236842,Fat,Sweeteners,g/capita/day
+1989,0.360526316,Fat,Vegetables,g/capita/day
+1989,126.2707282,Food Weight,Alcoholic beverages,g/capita/day
+1989,446.7069214,Food Weight,Animal products,g/capita/day
+1989,201.9971161,Food Weight,Fruits,g/capita/day
+1989,351.4149243,Food Weight,Grains,g/capita/day
+1989,0,Food Weight,Miscellaneous,g/capita/day
+1989,59.1186013,Food Weight,Oils,g/capita/day
+1989,17.79199712,Food Weight,Pulses,g/capita/day
+1989,9.778298486,Food Weight,Spices & stimulants,g/capita/day
+1989,198.4733237,Food Weight,Starchy roots,g/capita/day
+1989,83.03893295,Food Weight,Sweeteners,g/capita/day
+1989,179.6395097,Food Weight,Vegetables,g/capita/day
+1989,0.748026316,Protein,Alcoholic beverages,g/capita/day
+1989,30.11513158,Protein,Animal products,g/capita/day
+1989,1.107236842,Protein,Fruits,g/capita/day
+1989,27.575,Protein,Grains,g/capita/day
+1989,0.143421053,Protein,Miscellaneous,g/capita/day
+1989,1.990131579,Protein,Oils,g/capita/day
+1989,3.894078947,Protein,Pulses,g/capita/day
+1989,0.730921053,Protein,Spices & stimulants,g/capita/day
+1989,2.510526316,Protein,Starchy roots,g/capita/day
+1989,0.019736842,Protein,Sweeteners,g/capita/day
+1989,2.199342105,Protein,Vegetables,g/capita/day
+1990,89.24342105,Calories,Alcoholic beverages,kcal/capita/day
+1990,472.5131579,Calories,Animal products,kcal/capita/day
+1990,94.20394737,Calories,Fruits,kcal/capita/day
+1990,1059.039474,Calories,Grains,kcal/capita/day
+1990,3.644736842,Calories,Miscellaneous,kcal/capita/day
+1990,289.8552632,Calories,Oils,kcal/capita/day
+1990,59.03289474,Calories,Pulses,kcal/capita/day
+1990,14.06578947,Calories,Spices & stimulants,kcal/capita/day
+1990,172.2828947,Calories,Starchy roots,kcal/capita/day
+1990,271.9013158,Calories,Sweeteners,kcal/capita/day
+1990,45.09210526,Calories,Vegetables,kcal/capita/day
+1990,0.067105263,Fat,Alcoholic beverages,g/capita/day
+1990,33.84473684,Fat,Animal products,g/capita/day
+1990,0.528289474,Fat,Fruits,g/capita/day
+1990,6.301315789,Fat,Grains,g/capita/day
+1990,0.034868421,Fat,Miscellaneous,g/capita/day
+1990,30.71381579,Fat,Oils,g/capita/day
+1990,0.308552632,Fat,Pulses,g/capita/day
+1990,0.696710526,Fat,Spices & stimulants,g/capita/day
+1990,0.2875,Fat,Starchy roots,g/capita/day
+1990,0.006578947,Fat,Sweeteners,g/capita/day
+1990,0.364473684,Fat,Vegetables,g/capita/day
+1990,124.6629416,Food Weight,Alcoholic beverages,g/capita/day
+1990,443.4156453,Food Weight,Animal products,g/capita/day
+1990,195.6578947,Food Weight,Fruits,g/capita/day
+1990,348.1056236,Food Weight,Grains,g/capita/day
+1990,0,Food Weight,Miscellaneous,g/capita/day
+1990,60.11355443,Food Weight,Oils,g/capita/day
+1990,17.3666186,Food Weight,Pulses,g/capita/day
+1990,10.02523432,Food Weight,Spices & stimulants,g/capita/day
+1990,198.0010815,Food Weight,Starchy roots,g/capita/day
+1990,81.94844989,Food Weight,Sweeteners,g/capita/day
+1990,180.8687815,Food Weight,Vegetables,g/capita/day
+1990,0.731578947,Protein,Alcoholic beverages,g/capita/day
+1990,30.14473684,Protein,Animal products,g/capita/day
+1990,1.078947368,Protein,Fruits,g/capita/day
+1990,27.27302632,Protein,Grains,g/capita/day
+1990,0.134210526,Protein,Miscellaneous,g/capita/day
+1990,1.9875,Protein,Oils,g/capita/day
+1990,3.804605263,Protein,Pulses,g/capita/day
+1990,0.75,Protein,Spices & stimulants,g/capita/day
+1990,2.483552632,Protein,Starchy roots,g/capita/day
+1990,0.017763158,Protein,Sweeteners,g/capita/day
+1990,2.197368421,Protein,Vegetables,g/capita/day
+1991,88.90131579,Calories,Alcoholic beverages,kcal/capita/day
+1991,472.8355263,Calories,Animal products,kcal/capita/day
+1991,93.32236842,Calories,Fruits,kcal/capita/day
+1991,1059.921053,Calories,Grains,kcal/capita/day
+1991,4.355263158,Calories,Miscellaneous,kcal/capita/day
+1991,292.1118421,Calories,Oils,kcal/capita/day
+1991,59.49342105,Calories,Pulses,kcal/capita/day
+1991,14.19736842,Calories,Spices & stimulants,kcal/capita/day
+1991,171.0921053,Calories,Starchy roots,kcal/capita/day
+1991,269.7763158,Calories,Sweeteners,kcal/capita/day
+1991,44.82236842,Calories,Vegetables,kcal/capita/day
+1991,0.060526316,Fat,Alcoholic beverages,g/capita/day
+1991,33.78684211,Fat,Animal products,g/capita/day
+1991,0.518421053,Fat,Fruits,g/capita/day
+1991,6.311184211,Fat,Grains,g/capita/day
+1991,0.038815789,Fat,Miscellaneous,g/capita/day
+1991,31.07565789,Fat,Oils,g/capita/day
+1991,0.313157895,Fat,Pulses,g/capita/day
+1991,0.725657895,Fat,Spices & stimulants,g/capita/day
+1991,0.284210526,Fat,Starchy roots,g/capita/day
+1991,0.007236842,Fat,Sweeteners,g/capita/day
+1991,0.361184211,Fat,Vegetables,g/capita/day
+1991,124.2664023,Food Weight,Alcoholic beverages,g/capita/day
+1991,443.9834175,Food Weight,Animal products,g/capita/day
+1991,192.5324441,Food Weight,Fruits,g/capita/day
+1991,346.9069935,Food Weight,Grains,g/capita/day
+1991,0,Food Weight,Miscellaneous,g/capita/day
+1991,59.53677001,Food Weight,Oils,g/capita/day
+1991,17.52883922,Food Weight,Pulses,g/capita/day
+1991,9.992790194,Food Weight,Spices & stimulants,g/capita/day
+1991,197.0439798,Food Weight,Starchy roots,g/capita/day
+1991,81.16798846,Food Weight,Sweeteners,g/capita/day
+1991,178.7076424,Food Weight,Vegetables,g/capita/day
+1991,0.734210526,Protein,Alcoholic beverages,g/capita/day
+1991,30.29407895,Protein,Animal products,g/capita/day
+1991,1.076315789,Protein,Fruits,g/capita/day
+1991,27.24539474,Protein,Grains,g/capita/day
+1991,0.168421053,Protein,Miscellaneous,g/capita/day
+1991,1.863157895,Protein,Oils,g/capita/day
+1991,3.829605263,Protein,Pulses,g/capita/day
+1991,0.735526316,Protein,Spices & stimulants,g/capita/day
+1991,2.466447368,Protein,Starchy roots,g/capita/day
+1991,0.017763158,Protein,Sweeteners,g/capita/day
+1991,2.180921053,Protein,Vegetables,g/capita/day
+1992,87.65473252,Calories,Alcoholic beverages,kcal/capita/day
+1992,473.8540183,Calories,Animal products,kcal/capita/day
+1992,97.58385134,Calories,Fruits,kcal/capita/day
+1992,1058.055466,Calories,Grains,kcal/capita/day
+1992,3.878330587,Calories,Miscellaneous,kcal/capita/day
+1992,296.1948704,Calories,Oils,kcal/capita/day
+1992,57.91824594,Calories,Pulses,kcal/capita/day
+1992,15.26160529,Calories,Spices & stimulants,kcal/capita/day
+1992,168.3822309,Calories,Starchy roots,kcal/capita/day
+1992,268.6104834,Calories,Sweeteners,kcal/capita/day
+1992,45.93756519,Calories,Vegetables,kcal/capita/day
+1992,0.054497644,Fat,Alcoholic beverages,g/capita/day
+1992,33.89300916,Fat,Animal products,g/capita/day
+1992,0.539305837,Fat,Fruits,g/capita/day
+1992,6.292651382,Fat,Grains,g/capita/day
+1992,0.034868421,Fat,Miscellaneous,g/capita/day
+1992,31.5359985,Fat,Oils,g/capita/day
+1992,0.306340402,Fat,Pulses,g/capita/day
+1992,0.77919867,Fat,Spices & stimulants,g/capita/day
+1992,0.282420323,Fat,Starchy roots,g/capita/day
+1992,0.007236842,Fat,Sweeteners,g/capita/day
+1992,0.368622607,Fat,Vegetables,g/capita/day
+1992,124.0468696,Food Weight,Alcoholic beverages,g/capita/day
+1992,443.9500897,Food Weight,Animal products,g/capita/day
+1992,204.2700145,Food Weight,Fruits,g/capita/day
+1992,346.1243969,Food Weight,Grains,g/capita/day
+1992,0,Food Weight,Miscellaneous,g/capita/day
+1992,59.93280664,Food Weight,Oils,g/capita/day
+1992,17.04910714,Food Weight,Pulses,g/capita/day
+1992,10.37335533,Food Weight,Spices & stimulants,g/capita/day
+1992,194.8032683,Food Weight,Starchy roots,g/capita/day
+1992,81.14850154,Food Weight,Sweeteners,g/capita/day
+1992,182.8859612,Food Weight,Vegetables,g/capita/day
+1992,0.689369121,Protein,Alcoholic beverages,g/capita/day
+1992,30.33193597,Protein,Animal products,g/capita/day
+1992,1.120673597,Protein,Fruits,g/capita/day
+1992,27.13699247,Protein,Grains,g/capita/day
+1992,0.145464184,Protein,Miscellaneous,g/capita/day
+1992,1.935851436,Protein,Oils,g/capita/day
+1992,3.741944265,Protein,Pulses,g/capita/day
+1992,0.778292585,Protein,Spices & stimulants,g/capita/day
+1992,2.448819895,Protein,Starchy roots,g/capita/day
+1992,0.017105263,Protein,Sweeteners,g/capita/day
+1992,2.232271824,Protein,Vegetables,g/capita/day
+1993,86.69182373,Calories,Alcoholic beverages,kcal/capita/day
+1993,471.7457643,Calories,Animal products,kcal/capita/day
+1993,97.5946704,Calories,Fruits,kcal/capita/day
+1993,1055.667135,Calories,Grains,kcal/capita/day
+1993,3.885840379,Calories,Miscellaneous,kcal/capita/day
+1993,296.6915304,Calories,Oils,kcal/capita/day
+1993,57.15808262,Calories,Pulses,kcal/capita/day
+1993,15.45708107,Calories,Spices & stimulants,kcal/capita/day
+1993,167.8888403,Calories,Starchy roots,kcal/capita/day
+1993,267.3748199,Calories,Sweeteners,kcal/capita/day
+1993,46.78687501,Calories,Vegetables,kcal/capita/day
+1993,0.04997598,Fat,Alcoholic beverages,g/capita/day
+1993,33.61802693,Fat,Animal products,g/capita/day
+1993,0.533939966,Fat,Fruits,g/capita/day
+1993,6.309708994,Fat,Grains,g/capita/day
+1993,0.0348718,Fat,Miscellaneous,g/capita/day
+1993,31.55426803,Fat,Oils,g/capita/day
+1993,0.30114414,Fat,Pulses,g/capita/day
+1993,0.794038202,Fat,Spices & stimulants,g/capita/day
+1993,0.279909103,Fat,Starchy roots,g/capita/day
+1993,0.007894737,Fat,Sweeteners,g/capita/day
+1993,0.376580675,Fat,Vegetables,g/capita/day
+1993,123.7971553,Food Weight,Alcoholic beverages,g/capita/day
+1993,445.2316934,Food Weight,Animal products,g/capita/day
+1993,203.6156151,Food Weight,Fruits,g/capita/day
+1993,344.7538597,Food Weight,Grains,g/capita/day
+1993,0,Food Weight,Miscellaneous,g/capita/day
+1993,60.00641214,Food Weight,Oils,g/capita/day
+1993,16.84731184,Food Weight,Pulses,g/capita/day
+1993,10.42710639,Food Weight,Spices & stimulants,g/capita/day
+1993,194.4694929,Food Weight,Starchy roots,g/capita/day
+1993,80.92137625,Food Weight,Sweeteners,g/capita/day
+1993,186.5660089,Food Weight,Vegetables,g/capita/day
+1993,0.679996214,Protein,Alcoholic beverages,g/capita/day
+1993,30.413774,Protein,Animal products,g/capita/day
+1993,1.114515031,Protein,Fruits,g/capita/day
+1993,27.01561502,Protein,Grains,g/capita/day
+1993,0.146797853,Protein,Miscellaneous,g/capita/day
+1993,1.912762171,Protein,Oils,g/capita/day
+1993,3.703076803,Protein,Pulses,g/capita/day
+1993,0.783800558,Protein,Spices & stimulants,g/capita/day
+1993,2.461475363,Protein,Starchy roots,g/capita/day
+1993,0.017105263,Protein,Sweeteners,g/capita/day
+1993,2.257483681,Protein,Vegetables,g/capita/day
+1994,86.40650846,Calories,Alcoholic beverages,kcal/capita/day
+1994,470.5161752,Calories,Animal products,kcal/capita/day
+1994,97.72815221,Calories,Fruits,kcal/capita/day
+1994,1063.602192,Calories,Grains,kcal/capita/day
+1994,4.435840941,Calories,Miscellaneous,kcal/capita/day
+1994,293.4518097,Calories,Oils,kcal/capita/day
+1994,58.51765848,Calories,Pulses,kcal/capita/day
+1994,16.06314102,Calories,Spices & stimulants,kcal/capita/day
+1994,170.148145,Calories,Starchy roots,kcal/capita/day
+1994,270.4646649,Calories,Sweeteners,kcal/capita/day
+1994,47.39149214,Calories,Vegetables,kcal/capita/day
+1994,0.053667695,Fat,Alcoholic beverages,g/capita/day
+1994,33.39891519,Fat,Animal products,g/capita/day
+1994,0.526515736,Fat,Fruits,g/capita/day
+1994,6.404025153,Fat,Grains,g/capita/day
+1994,0.042114279,Fat,Miscellaneous,g/capita/day
+1994,31.18669719,Fat,Oils,g/capita/day
+1994,0.308827617,Fat,Pulses,g/capita/day
+1994,0.848465366,Fat,Spices & stimulants,g/capita/day
+1994,0.289537527,Fat,Starchy roots,g/capita/day
+1994,0.009210526,Fat,Sweeteners,g/capita/day
+1994,0.37077447,Fat,Vegetables,g/capita/day
+1994,123.2301131,Food Weight,Alcoholic beverages,g/capita/day
+1994,447.3404943,Food Weight,Animal products,g/capita/day
+1994,204.1552685,Food Weight,Fruits,g/capita/day
+1994,347.3760404,Food Weight,Grains,g/capita/day
+1994,0,Food Weight,Miscellaneous,g/capita/day
+1994,58.53098429,Food Weight,Oils,g/capita/day
+1994,17.25466551,Food Weight,Pulses,g/capita/day
+1994,10.45985758,Food Weight,Spices & stimulants,g/capita/day
+1994,196.368818,Food Weight,Starchy roots,g/capita/day
+1994,82.91183584,Food Weight,Sweeteners,g/capita/day
+1994,188.1274913,Food Weight,Vegetables,g/capita/day
+1994,0.706629497,Protein,Alcoholic beverages,g/capita/day
+1994,30.58981405,Protein,Animal products,g/capita/day
+1994,1.117086125,Protein,Fruits,g/capita/day
+1994,27.27859543,Protein,Grains,g/capita/day
+1994,0.163913964,Protein,Miscellaneous,g/capita/day
+1994,2.009507008,Protein,Oils,g/capita/day
+1994,3.792416815,Protein,Pulses,g/capita/day
+1994,0.787059614,Protein,Spices & stimulants,g/capita/day
+1994,2.48533464,Protein,Starchy roots,g/capita/day
+1994,0.018421053,Protein,Sweeteners,g/capita/day
+1994,2.278720518,Protein,Vegetables,g/capita/day
+1995,87.51391487,Calories,Alcoholic beverages,kcal/capita/day
+1995,475.9732785,Calories,Animal products,kcal/capita/day
+1995,96.39661487,Calories,Fruits,kcal/capita/day
+1995,1063.902077,Calories,Grains,kcal/capita/day
+1995,5.327326028,Calories,Miscellaneous,kcal/capita/day
+1995,299.7105857,Calories,Oils,kcal/capita/day
+1995,58.24487866,Calories,Pulses,kcal/capita/day
+1995,16.30843428,Calories,Spices & stimulants,kcal/capita/day
+1995,169.4688546,Calories,Starchy roots,kcal/capita/day
+1995,272.0118326,Calories,Sweeteners,kcal/capita/day
+1995,49.11098201,Calories,Vegetables,kcal/capita/day
+1995,0.056819847,Fat,Alcoholic beverages,g/capita/day
+1995,33.76058436,Fat,Animal products,g/capita/day
+1995,0.520225742,Fat,Fruits,g/capita/day
+1995,6.482217982,Fat,Grains,g/capita/day
+1995,0.048031941,Fat,Miscellaneous,g/capita/day
+1995,31.86975568,Fat,Oils,g/capita/day
+1995,0.299257519,Fat,Pulses,g/capita/day
+1995,0.851745909,Fat,Spices & stimulants,g/capita/day
+1995,0.283684339,Fat,Starchy roots,g/capita/day
+1995,0.009210526,Fat,Sweeteners,g/capita/day
+1995,0.391085567,Fat,Vegetables,g/capita/day
+1995,123.5624903,Food Weight,Alcoholic beverages,g/capita/day
+1995,454.5947742,Food Weight,Animal products,g/capita/day
+1995,200.2894468,Food Weight,Fruits,g/capita/day
+1995,346.8331242,Food Weight,Grains,g/capita/day
+1995,0,Food Weight,Miscellaneous,g/capita/day
+1995,59.58814814,Food Weight,Oils,g/capita/day
+1995,17.11200504,Food Weight,Pulses,g/capita/day
+1995,10.29185061,Food Weight,Spices & stimulants,g/capita/day
+1995,195.6856987,Food Weight,Starchy roots,g/capita/day
+1995,82.89460737,Food Weight,Sweeteners,g/capita/day
+1995,193.1381101,Food Weight,Vegetables,g/capita/day
+1995,0.741021939,Protein,Alcoholic beverages,g/capita/day
+1995,31.0303961,Protein,Animal products,g/capita/day
+1995,1.105848971,Protein,Fruits,g/capita/day
+1995,27.25491839,Protein,Grains,g/capita/day
+1995,0.190968022,Protein,Miscellaneous,g/capita/day
+1995,2.010309079,Protein,Oils,g/capita/day
+1995,3.760201063,Protein,Pulses,g/capita/day
+1995,0.767389619,Protein,Spices & stimulants,g/capita/day
+1995,2.474418741,Protein,Starchy roots,g/capita/day
+1995,0.018421053,Protein,Sweeteners,g/capita/day
+1995,2.339286398,Protein,Vegetables,g/capita/day
+1996,86.27578805,Calories,Alcoholic beverages,kcal/capita/day
+1996,474.9222825,Calories,Animal products,kcal/capita/day
+1996,99.35151994,Calories,Fruits,kcal/capita/day
+1996,1066.511619,Calories,Grains,kcal/capita/day
+1996,5.081582286,Calories,Miscellaneous,kcal/capita/day
+1996,297.9719554,Calories,Oils,kcal/capita/day
+1996,58.10825272,Calories,Pulses,kcal/capita/day
+1996,16.62954835,Calories,Spices & stimulants,kcal/capita/day
+1996,172.9022021,Calories,Starchy roots,kcal/capita/day
+1996,275.8264575,Calories,Sweeteners,kcal/capita/day
+1996,50.24601502,Calories,Vegetables,kcal/capita/day
+1996,0.055042796,Fat,Alcoholic beverages,g/capita/day
+1996,33.58763181,Fat,Animal products,g/capita/day
+1996,0.549501111,Fat,Fruits,g/capita/day
+1996,6.561264669,Fat,Grains,g/capita/day
+1996,0.04431494,Fat,Miscellaneous,g/capita/day
+1996,31.66262274,Fat,Oils,g/capita/day
+1996,0.306788882,Fat,Pulses,g/capita/day
+1996,0.854893802,Fat,Spices & stimulants,g/capita/day
+1996,0.289012643,Fat,Starchy roots,g/capita/day
+1996,0.008552632,Fat,Sweeteners,g/capita/day
+1996,0.410050899,Fat,Vegetables,g/capita/day
+1996,122.049227,Food Weight,Alcoholic beverages,g/capita/day
+1996,455.998494,Food Weight,Animal products,g/capita/day
+1996,208.3640497,Food Weight,Fruits,g/capita/day
+1996,347.7341764,Food Weight,Grains,g/capita/day
+1996,0,Food Weight,Miscellaneous,g/capita/day
+1996,59.34869223,Food Weight,Oils,g/capita/day
+1996,17.14134704,Food Weight,Pulses,g/capita/day
+1996,10.97186483,Food Weight,Spices & stimulants,g/capita/day
+1996,199.4770847,Food Weight,Starchy roots,g/capita/day
+1996,84.12723789,Food Weight,Sweeteners,g/capita/day
+1996,197.6427415,Food Weight,Vegetables,g/capita/day
+1996,0.709537065,Protein,Alcoholic beverages,g/capita/day
+1996,31.12372317,Protein,Animal products,g/capita/day
+1996,1.140323639,Protein,Fruits,g/capita/day
+1996,27.25191068,Protein,Grains,g/capita/day
+1996,0.181925192,Protein,Miscellaneous,g/capita/day
+1996,2.015398219,Protein,Oils,g/capita/day
+1996,3.747913451,Protein,Pulses,g/capita/day
+1996,0.805870245,Protein,Spices & stimulants,g/capita/day
+1996,2.527163629,Protein,Starchy roots,g/capita/day
+1996,0.016447368,Protein,Sweeteners,g/capita/day
+1996,2.380396602,Protein,Vegetables,g/capita/day
+1997,86.49738687,Calories,Alcoholic beverages,kcal/capita/day
+1997,478.0023211,Calories,Animal products,kcal/capita/day
+1997,99.09420753,Calories,Fruits,kcal/capita/day
+1997,1062.769484,Calories,Grains,kcal/capita/day
+1997,5.239472333,Calories,Miscellaneous,kcal/capita/day
+1997,306.3644842,Calories,Oils,kcal/capita/day
+1997,57.96027952,Calories,Pulses,kcal/capita/day
+1997,17.38770654,Calories,Spices & stimulants,kcal/capita/day
+1997,175.2414026,Calories,Starchy roots,kcal/capita/day
+1997,277.417879,Calories,Sweeteners,kcal/capita/day
+1997,49.67598083,Calories,Vegetables,kcal/capita/day
+1997,0.05180235,Fat,Alcoholic beverages,g/capita/day
+1997,33.78690981,Fat,Animal products,g/capita/day
+1997,0.546994547,Fat,Fruits,g/capita/day
+1997,6.574863735,Fat,Grains,g/capita/day
+1997,0.046936591,Fat,Miscellaneous,g/capita/day
+1997,32.52254441,Fat,Oils,g/capita/day
+1997,0.303808671,Fat,Pulses,g/capita/day
+1997,0.957221454,Fat,Spices & stimulants,g/capita/day
+1997,0.294655186,Fat,Starchy roots,g/capita/day
+1997,0.009210526,Fat,Sweeteners,g/capita/day
+1997,0.398609687,Fat,Vegetables,g/capita/day
+1997,123.8243419,Food Weight,Alcoholic beverages,g/capita/day
+1997,459.5143451,Food Weight,Animal products,g/capita/day
+1997,212.0081541,Food Weight,Fruits,g/capita/day
+1997,346.5651006,Food Weight,Grains,g/capita/day
+1997,0,Food Weight,Miscellaneous,g/capita/day
+1997,60.88614903,Food Weight,Oils,g/capita/day
+1997,17.0768129,Food Weight,Pulses,g/capita/day
+1997,10.88896617,Food Weight,Spices & stimulants,g/capita/day
+1997,202.4010777,Food Weight,Starchy roots,g/capita/day
+1997,84.66392404,Food Weight,Sweeteners,g/capita/day
+1997,194.9909917,Food Weight,Vegetables,g/capita/day
+1997,0.689669219,Protein,Alcoholic beverages,g/capita/day
+1997,31.36562653,Protein,Animal products,g/capita/day
+1997,1.131831762,Protein,Fruits,g/capita/day
+1997,27.14248803,Protein,Grains,g/capita/day
+1997,0.18644546,Protein,Miscellaneous,g/capita/day
+1997,2.135658004,Protein,Oils,g/capita/day
+1997,3.738227758,Protein,Pulses,g/capita/day
+1997,0.81531814,Protein,Spices & stimulants,g/capita/day
+1997,2.570296925,Protein,Starchy roots,g/capita/day
+1997,0.017763158,Protein,Sweeteners,g/capita/day
+1997,2.351452237,Protein,Vegetables,g/capita/day
+1998,88.4466262,Calories,Alcoholic beverages,kcal/capita/day
+1998,482.2607648,Calories,Animal products,kcal/capita/day
+1998,97.30077738,Calories,Fruits,kcal/capita/day
+1998,1067.555086,Calories,Grains,kcal/capita/day
+1998,4.970809504,Calories,Miscellaneous,kcal/capita/day
+1998,307.9257556,Calories,Oils,kcal/capita/day
+1998,59.19343454,Calories,Pulses,kcal/capita/day
+1998,17.75676469,Calories,Spices & stimulants,kcal/capita/day
+1998,177.0486699,Calories,Starchy roots,kcal/capita/day
+1998,274.9178659,Calories,Sweeteners,kcal/capita/day
+1998,50.97128005,Calories,Vegetables,kcal/capita/day
+1998,0.060670575,Fat,Alcoholic beverages,g/capita/day
+1998,34.106463,Fat,Animal products,g/capita/day
+1998,0.540926396,Fat,Fruits,g/capita/day
+1998,6.668501668,Fat,Grains,g/capita/day
+1998,0.044974554,Fat,Miscellaneous,g/capita/day
+1998,32.70741346,Fat,Oils,g/capita/day
+1998,0.310693408,Fat,Pulses,g/capita/day
+1998,0.954972969,Fat,Spices & stimulants,g/capita/day
+1998,0.293700214,Fat,Starchy roots,g/capita/day
+1998,0.009210526,Fat,Sweeteners,g/capita/day
+1998,0.405950896,Fat,Vegetables,g/capita/day
+1998,124.8078401,Food Weight,Alcoholic beverages,g/capita/day
+1998,461.6952996,Food Weight,Animal products,g/capita/day
+1998,208.7286793,Food Weight,Fruits,g/capita/day
+1998,347.7692373,Food Weight,Grains,g/capita/day
+1998,0,Food Weight,Miscellaneous,g/capita/day
+1998,61.04910779,Food Weight,Oils,g/capita/day
+1998,17.42100217,Food Weight,Pulses,g/capita/day
+1998,11.26181715,Food Weight,Spices & stimulants,g/capita/day
+1998,205.1317301,Food Weight,Starchy roots,g/capita/day
+1998,84.22529578,Food Weight,Sweeteners,g/capita/day
+1998,200.5477815,Food Weight,Vegetables,g/capita/day
+1998,0.755087183,Protein,Alcoholic beverages,g/capita/day
+1998,31.65777898,Protein,Animal products,g/capita/day
+1998,1.112287336,Protein,Fruits,g/capita/day
+1998,27.28868424,Protein,Grains,g/capita/day
+1998,0.176464979,Protein,Miscellaneous,g/capita/day
+1998,2.111320143,Protein,Oils,g/capita/day
+1998,3.808523717,Protein,Pulses,g/capita/day
+1998,0.844384713,Protein,Spices & stimulants,g/capita/day
+1998,2.61536184,Protein,Starchy roots,g/capita/day
+1998,0.019736842,Protein,Sweeteners,g/capita/day
+1998,2.401828563,Protein,Vegetables,g/capita/day
+1999,87.57350071,Calories,Alcoholic beverages,kcal/capita/day
+1999,488.3591835,Calories,Animal products,kcal/capita/day
+1999,99.87238739,Calories,Fruits,kcal/capita/day
+1999,1073.876365,Calories,Grains,kcal/capita/day
+1999,5.173600225,Calories,Miscellaneous,kcal/capita/day
+1999,311.2451955,Calories,Oils,kcal/capita/day
+1999,59.62355253,Calories,Pulses,kcal/capita/day
+1999,17.43048237,Calories,Spices & stimulants,kcal/capita/day
+1999,179.2939621,Calories,Starchy roots,kcal/capita/day
+1999,273.9233081,Calories,Sweeteners,kcal/capita/day
+1999,52.18898146,Calories,Vegetables,kcal/capita/day
+1999,0.057790114,Fat,Alcoholic beverages,g/capita/day
+1999,34.4695037,Fat,Animal products,g/capita/day
+1999,0.551261562,Fat,Fruits,g/capita/day
+1999,6.636135714,Fat,Grains,g/capita/day
+1999,0.05156498,Fat,Miscellaneous,g/capita/day
+1999,33.06397969,Fat,Oils,g/capita/day
+1999,0.313329994,Fat,Pulses,g/capita/day
+1999,0.941020638,Fat,Spices & stimulants,g/capita/day
+1999,0.300735819,Fat,Starchy roots,g/capita/day
+1999,0.009210526,Fat,Sweeteners,g/capita/day
+1999,0.42414953,Fat,Vegetables,g/capita/day
+1999,125.1680138,Food Weight,Alcoholic beverages,g/capita/day
+1999,468.3693676,Food Weight,Animal products,g/capita/day
+1999,214.448953,Food Weight,Fruits,g/capita/day
+1999,349.7565604,Food Weight,Grains,g/capita/day
+1999,0,Food Weight,Miscellaneous,g/capita/day
+1999,61.59768811,Food Weight,Oils,g/capita/day
+1999,17.57010028,Food Weight,Pulses,g/capita/day
+1999,11.17306622,Food Weight,Spices & stimulants,g/capita/day
+1999,207.8771595,Food Weight,Starchy roots,g/capita/day
+1999,85.1620525,Food Weight,Sweeteners,g/capita/day
+1999,206.6914471,Food Weight,Vegetables,g/capita/day
+1999,0.722807491,Protein,Alcoholic beverages,g/capita/day
+1999,32.20183398,Protein,Animal products,g/capita/day
+1999,1.151081252,Protein,Fruits,g/capita/day
+1999,27.41042732,Protein,Grains,g/capita/day
+1999,0.180180223,Protein,Miscellaneous,g/capita/day
+1999,2.137191146,Protein,Oils,g/capita/day
+1999,3.846181984,Protein,Pulses,g/capita/day
+1999,0.829195496,Protein,Spices & stimulants,g/capita/day
+1999,2.641015898,Protein,Starchy roots,g/capita/day
+1999,0.022368421,Protein,Sweeteners,g/capita/day
+1999,2.452150602,Protein,Vegetables,g/capita/day
+2000,84.97804678,Calories,Alcoholic beverages,kcal/capita/day
+2000,488.3312284,Calories,Animal products,kcal/capita/day
+2000,100.9518574,Calories,Fruits,kcal/capita/day
+2000,1076.87718,Calories,Grains,kcal/capita/day
+2000,5.75429257,Calories,Miscellaneous,kcal/capita/day
+2000,315.8237965,Calories,Oils,kcal/capita/day
+2000,58.93060294,Calories,Pulses,kcal/capita/day
+2000,18.5373737,Calories,Spices & stimulants,kcal/capita/day
+2000,179.578295,Calories,Starchy roots,kcal/capita/day
+2000,277.282501,Calories,Sweeteners,kcal/capita/day
+2000,53.04782149,Calories,Vegetables,kcal/capita/day
+2000,0.052930314,Fat,Alcoholic beverages,g/capita/day
+2000,34.46673593,Fat,Animal products,g/capita/day
+2000,0.575886413,Fat,Fruits,g/capita/day
+2000,6.768015062,Fat,Grains,g/capita/day
+2000,0.062042667,Fat,Miscellaneous,g/capita/day
+2000,33.5076656,Fat,Oils,g/capita/day
+2000,0.30700127,Fat,Pulses,g/capita/day
+2000,1.00159342,Fat,Spices & stimulants,g/capita/day
+2000,0.302184681,Fat,Starchy roots,g/capita/day
+2000,0.009210526,Fat,Sweeteners,g/capita/day
+2000,0.43079941,Fat,Vegetables,g/capita/day
+2000,123.8208997,Food Weight,Alcoholic beverages,g/capita/day
+2000,468.0292134,Food Weight,Animal products,g/capita/day
+2000,215.1198407,Food Weight,Fruits,g/capita/day
+2000,350.5006641,Food Weight,Grains,g/capita/day
+2000,0,Food Weight,Miscellaneous,g/capita/day
+2000,62.61452209,Food Weight,Oils,g/capita/day
+2000,17.31181986,Food Weight,Pulses,g/capita/day
+2000,11.40973839,Food Weight,Spices & stimulants,g/capita/day
+2000,208.231045,Food Weight,Starchy roots,g/capita/day
+2000,86.07181549,Food Weight,Sweeteners,g/capita/day
+2000,209.4572609,Food Weight,Vegetables,g/capita/day
+2000,0.668741268,Protein,Alcoholic beverages,g/capita/day
+2000,32.27273973,Protein,Animal products,g/capita/day
+2000,1.151226015,Protein,Fruits,g/capita/day
+2000,27.43280189,Protein,Grains,g/capita/day
+2000,0.206490228,Protein,Miscellaneous,g/capita/day
+2000,2.232826665,Protein,Oils,g/capita/day
+2000,3.803138977,Protein,Pulses,g/capita/day
+2000,0.855557933,Protein,Spices & stimulants,g/capita/day
+2000,2.634496836,Protein,Starchy roots,g/capita/day
+2000,0.019736842,Protein,Sweeteners,g/capita/day
+2000,2.501500256,Protein,Vegetables,g/capita/day
+2001,85.9417006,Calories,Alcoholic beverages,kcal/capita/day
+2001,491.2786651,Calories,Animal products,kcal/capita/day
+2001,100.0318596,Calories,Fruits,kcal/capita/day
+2001,1083.772037,Calories,Grains,kcal/capita/day
+2001,5.832868765,Calories,Miscellaneous,kcal/capita/day
+2001,318.7815487,Calories,Oils,kcal/capita/day
+2001,60.11382332,Calories,Pulses,kcal/capita/day
+2001,18.91842669,Calories,Spices & stimulants,kcal/capita/day
+2001,181.9957997,Calories,Starchy roots,kcal/capita/day
+2001,278.5087036,Calories,Sweeteners,kcal/capita/day
+2001,52.83698088,Calories,Vegetables,kcal/capita/day
+2001,0.053621113,Fat,Alcoholic beverages,g/capita/day
+2001,34.59075743,Fat,Animal products,g/capita/day
+2001,0.567974563,Fat,Fruits,g/capita/day
+2001,6.899112209,Fat,Grains,g/capita/day
+2001,0.058267882,Fat,Miscellaneous,g/capita/day
+2001,33.82132906,Fat,Oils,g/capita/day
+2001,0.310724343,Fat,Pulses,g/capita/day
+2001,1.007623769,Fat,Spices & stimulants,g/capita/day
+2001,0.300941723,Fat,Starchy roots,g/capita/day
+2001,0.009210526,Fat,Sweeteners,g/capita/day
+2001,0.421346851,Fat,Vegetables,g/capita/day
+2001,124.7183712,Food Weight,Alcoholic beverages,g/capita/day
+2001,472.9623869,Food Weight,Animal products,g/capita/day
+2001,213.6496832,Food Weight,Fruits,g/capita/day
+2001,352.858184,Food Weight,Grains,g/capita/day
+2001,0,Food Weight,Miscellaneous,g/capita/day
+2001,62.92209885,Food Weight,Oils,g/capita/day
+2001,17.6864574,Food Weight,Pulses,g/capita/day
+2001,11.72826556,Food Weight,Spices & stimulants,g/capita/day
+2001,211.297302,Food Weight,Starchy roots,g/capita/day
+2001,86.38181425,Food Weight,Sweeteners,g/capita/day
+2001,205.8741194,Food Weight,Vegetables,g/capita/day
+2001,0.700479007,Protein,Alcoholic beverages,g/capita/day
+2001,32.57401094,Protein,Animal products,g/capita/day
+2001,1.149111882,Protein,Fruits,g/capita/day
+2001,27.58928085,Protein,Grains,g/capita/day
+2001,0.208861661,Protein,Miscellaneous,g/capita/day
+2001,2.260529827,Protein,Oils,g/capita/day
+2001,3.883932213,Protein,Pulses,g/capita/day
+2001,0.870984168,Protein,Spices & stimulants,g/capita/day
+2001,2.671323108,Protein,Starchy roots,g/capita/day
+2001,0.019078947,Protein,Sweeteners,g/capita/day
+2001,2.471926964,Protein,Vegetables,g/capita/day
+2002,86.3296803,Calories,Alcoholic beverages,kcal/capita/day
+2002,493.6683938,Calories,Animal products,kcal/capita/day
+2002,101.2591399,Calories,Fruits,kcal/capita/day
+2002,1084.036333,Calories,Grains,kcal/capita/day
+2002,6.24981308,Calories,Miscellaneous,kcal/capita/day
+2002,323.9502472,Calories,Oils,kcal/capita/day
+2002,61.1762107,Calories,Pulses,kcal/capita/day
+2002,19.1479415,Calories,Spices & stimulants,kcal/capita/day
+2002,180.8457509,Calories,Starchy roots,kcal/capita/day
+2002,278.2960243,Calories,Sweeteners,kcal/capita/day
+2002,52.98978784,Calories,Vegetables,kcal/capita/day
+2002,0.049260573,Fat,Alcoholic beverages,g/capita/day
+2002,34.71215991,Fat,Animal products,g/capita/day
+2002,0.573975301,Fat,Fruits,g/capita/day
+2002,6.836185232,Fat,Grains,g/capita/day
+2002,0.064226496,Fat,Miscellaneous,g/capita/day
+2002,34.34496155,Fat,Oils,g/capita/day
+2002,0.320081733,Fat,Pulses,g/capita/day
+2002,1.006055318,Fat,Spices & stimulants,g/capita/day
+2002,0.301601766,Fat,Starchy roots,g/capita/day
+2002,0.009210526,Fat,Sweeteners,g/capita/day
+2002,0.42694267,Fat,Vegetables,g/capita/day
+2002,124.3985925,Food Weight,Alcoholic beverages,g/capita/day
+2002,475.9400325,Food Weight,Animal products,g/capita/day
+2002,217.5026806,Food Weight,Fruits,g/capita/day
+2002,352.9699267,Food Weight,Grains,g/capita/day
+2002,0,Food Weight,Miscellaneous,g/capita/day
+2002,64.16181597,Food Weight,Oils,g/capita/day
+2002,18.01657131,Food Weight,Pulses,g/capita/day
+2002,12.13294592,Food Weight,Spices & stimulants,g/capita/day
+2002,209.9271441,Food Weight,Starchy roots,g/capita/day
+2002,86.38360691,Food Weight,Sweeteners,g/capita/day
+2002,208.404494,Food Weight,Vegetables,g/capita/day
+2002,0.696824193,Protein,Alcoholic beverages,g/capita/day
+2002,32.94237086,Protein,Animal products,g/capita/day
+2002,1.159155138,Protein,Fruits,g/capita/day
+2002,27.5657933,Protein,Grains,g/capita/day
+2002,0.218991743,Protein,Miscellaneous,g/capita/day
+2002,2.343654212,Protein,Oils,g/capita/day
+2002,3.947614033,Protein,Pulses,g/capita/day
+2002,0.889532991,Protein,Spices & stimulants,g/capita/day
+2002,2.674964589,Protein,Starchy roots,g/capita/day
+2002,0.019078947,Protein,Sweeteners,g/capita/day
+2002,2.480284279,Protein,Vegetables,g/capita/day
+2003,86.31147014,Calories,Alcoholic beverages,kcal/capita/day
+2003,492.3413589,Calories,Animal products,kcal/capita/day
+2003,100.8288952,Calories,Fruits,kcal/capita/day
+2003,1090.568643,Calories,Grains,kcal/capita/day
+2003,6.212415303,Calories,Miscellaneous,kcal/capita/day
+2003,325.4295823,Calories,Oils,kcal/capita/day
+2003,61.87833068,Calories,Pulses,kcal/capita/day
+2003,20.42700096,Calories,Spices & stimulants,kcal/capita/day
+2003,180.3062822,Calories,Starchy roots,kcal/capita/day
+2003,282.1090108,Calories,Sweeteners,kcal/capita/day
+2003,54.33561244,Calories,Vegetables,kcal/capita/day
+2003,0.052026878,Fat,Alcoholic beverages,g/capita/day
+2003,34.57400156,Fat,Animal products,g/capita/day
+2003,0.59224123,Fat,Fruits,g/capita/day
+2003,6.879846641,Fat,Grains,g/capita/day
+2003,0.066933384,Fat,Miscellaneous,g/capita/day
+2003,34.48497564,Fat,Oils,g/capita/day
+2003,0.327406893,Fat,Pulses,g/capita/day
+2003,1.094205679,Fat,Spices & stimulants,g/capita/day
+2003,0.297580051,Fat,Starchy roots,g/capita/day
+2003,0.007894737,Fat,Sweeteners,g/capita/day
+2003,0.436380136,Fat,Vegetables,g/capita/day
+2003,123.7047188,Food Weight,Alcoholic beverages,g/capita/day
+2003,475.7712644,Food Weight,Animal products,g/capita/day
+2003,217.4439326,Food Weight,Fruits,g/capita/day
+2003,354.9789334,Food Weight,Grains,g/capita/day
+2003,0,Food Weight,Miscellaneous,g/capita/day
+2003,64.31509407,Food Weight,Oils,g/capita/day
+2003,18.23098756,Food Weight,Pulses,g/capita/day
+2003,12.15331485,Food Weight,Spices & stimulants,g/capita/day
+2003,209.6953391,Food Weight,Starchy roots,g/capita/day
+2003,87.01861921,Food Weight,Sweeteners,g/capita/day
+2003,213.1075058,Food Weight,Vegetables,g/capita/day
+2003,0.699141529,Protein,Alcoholic beverages,g/capita/day
+2003,32.94588993,Protein,Animal products,g/capita/day
+2003,1.148839451,Protein,Fruits,g/capita/day
+2003,27.77693596,Protein,Grains,g/capita/day
+2003,0.217843956,Protein,Miscellaneous,g/capita/day
+2003,2.376798994,Protein,Oils,g/capita/day
+2003,3.996344612,Protein,Pulses,g/capita/day
+2003,0.886872064,Protein,Spices & stimulants,g/capita/day
+2003,2.66608316,Protein,Starchy roots,g/capita/day
+2003,0.018549401,Protein,Sweeteners,g/capita/day
+2003,2.526924999,Protein,Vegetables,g/capita/day
+2004,87.80805007,Calories,Alcoholic beverages,kcal/capita/day
+2004,492.5510304,Calories,Animal products,kcal/capita/day
+2004,102.0436702,Calories,Fruits,kcal/capita/day
+2004,1088.921346,Calories,Grains,kcal/capita/day
+2004,7.546898851,Calories,Miscellaneous,kcal/capita/day
+2004,333.1796057,Calories,Oils,kcal/capita/day
+2004,61.16324478,Calories,Pulses,kcal/capita/day
+2004,20.8074702,Calories,Spices & stimulants,kcal/capita/day
+2004,180.400826,Calories,Starchy roots,kcal/capita/day
+2004,283.0742065,Calories,Sweeteners,kcal/capita/day
+2004,55.24998918,Calories,Vegetables,kcal/capita/day
+2004,0.055161694,Fat,Alcoholic beverages,g/capita/day
+2004,34.62536688,Fat,Animal products,g/capita/day
+2004,0.586914668,Fat,Fruits,g/capita/day
+2004,6.928486704,Fat,Grains,g/capita/day
+2004,0.081302083,Fat,Miscellaneous,g/capita/day
+2004,35.38531494,Fat,Oils,g/capita/day
+2004,0.319309463,Fat,Pulses,g/capita/day
+2004,1.131558747,Fat,Spices & stimulants,g/capita/day
+2004,0.29471068,Fat,Starchy roots,g/capita/day
+2004,0.007894737,Fat,Sweeteners,g/capita/day
+2004,0.44972667,Fat,Vegetables,g/capita/day
+2004,125.4375389,Food Weight,Alcoholic beverages,g/capita/day
+2004,474.2476447,Food Weight,Animal products,g/capita/day
+2004,219.4787951,Food Weight,Fruits,g/capita/day
+2004,353.719651,Food Weight,Grains,g/capita/day
+2004,0,Food Weight,Miscellaneous,g/capita/day
+2004,65.3373995,Food Weight,Oils,g/capita/day
+2004,17.99523809,Food Weight,Pulses,g/capita/day
+2004,12.46995662,Food Weight,Spices & stimulants,g/capita/day
+2004,210.0098442,Food Weight,Starchy roots,g/capita/day
+2004,87.26904236,Food Weight,Sweeteners,g/capita/day
+2004,218.7720907,Food Weight,Vegetables,g/capita/day
+2004,0.713986622,Protein,Alcoholic beverages,g/capita/day
+2004,33.02759653,Protein,Animal products,g/capita/day
+2004,1.166426687,Protein,Fruits,g/capita/day
+2004,27.6702204,Protein,Grains,g/capita/day
+2004,0.262820088,Protein,Miscellaneous,g/capita/day
+2004,2.341584337,Protein,Oils,g/capita/day
+2004,3.949675439,Protein,Pulses,g/capita/day
+2004,0.901910004,Protein,Spices & stimulants,g/capita/day
+2004,2.661954981,Protein,Starchy roots,g/capita/day
+2004,0.019865365,Protein,Sweeteners,g/capita/day
+2004,2.582456586,Protein,Vegetables,g/capita/day
+2005,87.23545057,Calories,Alcoholic beverages,kcal/capita/day
+2005,497.9982347,Calories,Animal products,kcal/capita/day
+2005,101.6714135,Calories,Fruits,kcal/capita/day
+2005,1097.451545,Calories,Grains,kcal/capita/day
+2005,7.845021611,Calories,Miscellaneous,kcal/capita/day
+2005,336.6340303,Calories,Oils,kcal/capita/day
+2005,62.19668951,Calories,Pulses,kcal/capita/day
+2005,21.62786917,Calories,Spices & stimulants,kcal/capita/day
+2005,180.1671725,Calories,Starchy roots,kcal/capita/day
+2005,280.9748043,Calories,Sweeteners,kcal/capita/day
+2005,55.32733568,Calories,Vegetables,kcal/capita/day
+2005,0.054205312,Fat,Alcoholic beverages,g/capita/day
+2005,34.91750336,Fat,Animal products,g/capita/day
+2005,0.595857807,Fat,Fruits,g/capita/day
+2005,6.9520944,Fat,Grains,g/capita/day
+2005,0.083333907,Fat,Miscellaneous,g/capita/day
+2005,35.70714692,Fat,Oils,g/capita/day
+2005,0.320834508,Fat,Pulses,g/capita/day
+2005,1.159873497,Fat,Spices & stimulants,g/capita/day
+2005,0.293285093,Fat,Starchy roots,g/capita/day
+2005,0.007894737,Fat,Sweeteners,g/capita/day
+2005,0.449641331,Fat,Vegetables,g/capita/day
+2005,126.1736867,Food Weight,Alcoholic beverages,g/capita/day
+2005,480.9325897,Food Weight,Animal products,g/capita/day
+2005,221.8867571,Food Weight,Fruits,g/capita/day
+2005,356.4613756,Food Weight,Grains,g/capita/day
+2005,0,Food Weight,Miscellaneous,g/capita/day
+2005,65.99183426,Food Weight,Oils,g/capita/day
+2005,18.29953862,Food Weight,Pulses,g/capita/day
+2005,12.97199536,Food Weight,Spices & stimulants,g/capita/day
+2005,209.6642857,Food Weight,Starchy roots,g/capita/day
+2005,86.82987865,Food Weight,Sweeteners,g/capita/day
+2005,214.9329097,Food Weight,Vegetables,g/capita/day
+2005,0.702932121,Protein,Alcoholic beverages,g/capita/day
+2005,33.50788826,Protein,Animal products,g/capita/day
+2005,1.16025832,Protein,Fruits,g/capita/day
+2005,27.85913892,Protein,Grains,g/capita/day
+2005,0.271083035,Protein,Miscellaneous,g/capita/day
+2005,2.420286834,Protein,Oils,g/capita/day
+2005,4.025616225,Protein,Pulses,g/capita/day
+2005,0.932968221,Protein,Spices & stimulants,g/capita/day
+2005,2.6547607,Protein,Starchy roots,g/capita/day
+2005,0.020394737,Protein,Sweeteners,g/capita/day
+2005,2.55658227,Protein,Vegetables,g/capita/day
+2006,89.75168663,Calories,Alcoholic beverages,kcal/capita/day
+2006,500.2538499,Calories,Animal products,kcal/capita/day
+2006,103.5934017,Calories,Fruits,kcal/capita/day
+2006,1101.524092,Calories,Grains,kcal/capita/day
+2006,8.01257022,Calories,Miscellaneous,kcal/capita/day
+2006,340.2210854,Calories,Oils,kcal/capita/day
+2006,62.74720706,Calories,Pulses,kcal/capita/day
+2006,22.7051433,Calories,Spices & stimulants,kcal/capita/day
+2006,178.5466613,Calories,Starchy roots,kcal/capita/day
+2006,281.2268989,Calories,Sweeteners,kcal/capita/day
+2006,55.59499265,Calories,Vegetables,kcal/capita/day
+2006,0.055508132,Fat,Alcoholic beverages,g/capita/day
+2006,35.04112622,Fat,Animal products,g/capita/day
+2006,0.618077086,Fat,Fruits,g/capita/day
+2006,7.0662676,Fat,Grains,g/capita/day
+2006,0.092058923,Fat,Miscellaneous,g/capita/day
+2006,36.11891482,Fat,Oils,g/capita/day
+2006,0.316332646,Fat,Pulses,g/capita/day
+2006,1.248450444,Fat,Spices & stimulants,g/capita/day
+2006,0.290578239,Fat,Starchy roots,g/capita/day
+2006,0.010526316,Fat,Sweeteners,g/capita/day
+2006,0.448496618,Fat,Vegetables,g/capita/day
+2006,130.446696,Food Weight,Alcoholic beverages,g/capita/day
+2006,482.6606327,Food Weight,Animal products,g/capita/day
+2006,224.4058985,Food Weight,Fruits,g/capita/day
+2006,357.6702265,Food Weight,Grains,g/capita/day
+2006,0,Food Weight,Miscellaneous,g/capita/day
+2006,67.00874841,Food Weight,Oils,g/capita/day
+2006,18.4621421,Food Weight,Pulses,g/capita/day
+2006,13.32694874,Food Weight,Spices & stimulants,g/capita/day
+2006,207.7054595,Food Weight,Starchy roots,g/capita/day
+2006,87.22076039,Food Weight,Sweeteners,g/capita/day
+2006,214.7725562,Food Weight,Vegetables,g/capita/day
+2006,0.7227416,Protein,Alcoholic beverages,g/capita/day
+2006,33.62452546,Protein,Animal products,g/capita/day
+2006,1.183911323,Protein,Fruits,g/capita/day
+2006,27.91959138,Protein,Grains,g/capita/day
+2006,0.277501171,Protein,Miscellaneous,g/capita/day
+2006,2.434326391,Protein,Oils,g/capita/day
+2006,4.070344013,Protein,Pulses,g/capita/day
+2006,0.964746539,Protein,Spices & stimulants,g/capita/day
+2006,2.625776874,Protein,Starchy roots,g/capita/day
+2006,0.018549396,Protein,Sweeteners,g/capita/day
+2006,2.580019958,Protein,Vegetables,g/capita/day
+2007,90.94301665,Calories,Alcoholic beverages,kcal/capita/day
+2007,511.3801686,Calories,Animal products,kcal/capita/day
+2007,104.0868472,Calories,Fruits,kcal/capita/day
+2007,1102.082392,Calories,Grains,kcal/capita/day
+2007,8.401958075,Calories,Miscellaneous,kcal/capita/day
+2007,340.2613241,Calories,Oils,kcal/capita/day
+2007,64.28988814,Calories,Pulses,kcal/capita/day
+2007,23.85718085,Calories,Spices & stimulants,kcal/capita/day
+2007,178.834116,Calories,Starchy roots,kcal/capita/day
+2007,282.7581408,Calories,Sweeteners,kcal/capita/day
+2007,55.43647937,Calories,Vegetables,kcal/capita/day
+2007,0.055938011,Fat,Alcoholic beverages,g/capita/day
+2007,35.86953524,Fat,Animal products,g/capita/day
+2007,0.623055256,Fat,Fruits,g/capita/day
+2007,7.16264694,Fat,Grains,g/capita/day
+2007,0.098694214,Fat,Miscellaneous,g/capita/day
+2007,36.07002294,Fat,Oils,g/capita/day
+2007,0.337308475,Fat,Pulses,g/capita/day
+2007,1.301229231,Fat,Spices & stimulants,g/capita/day
+2007,0.290566333,Fat,Starchy roots,g/capita/day
+2007,0.009210526,Fat,Sweeteners,g/capita/day
+2007,0.449273294,Fat,Vegetables,g/capita/day
+2007,132.1650723,Food Weight,Alcoholic beverages,g/capita/day
+2007,494.0523678,Food Weight,Animal products,g/capita/day
+2007,226.6651612,Food Weight,Fruits,g/capita/day
+2007,357.4624444,Food Weight,Grains,g/capita/day
+2007,0,Food Weight,Miscellaneous,g/capita/day
+2007,67.13223335,Food Weight,Oils,g/capita/day
+2007,18.94314313,Food Weight,Pulses,g/capita/day
+2007,14.31982986,Food Weight,Spices & stimulants,g/capita/day
+2007,208.4442556,Food Weight,Starchy roots,g/capita/day
+2007,88.06297669,Food Weight,Sweeteners,g/capita/day
+2007,214.9068894,Food Weight,Vegetables,g/capita/day
+2007,0.730782416,Protein,Alcoholic beverages,g/capita/day
+2007,34.42470017,Protein,Animal products,g/capita/day
+2007,1.180488206,Protein,Fruits,g/capita/day
+2007,27.92135761,Protein,Grains,g/capita/day
+2007,0.291985936,Protein,Miscellaneous,g/capita/day
+2007,2.491733954,Protein,Oils,g/capita/day
+2007,4.161083652,Protein,Pulses,g/capita/day
+2007,1.041836733,Protein,Spices & stimulants,g/capita/day
+2007,2.632867933,Protein,Starchy roots,g/capita/day
+2007,0.019736842,Protein,Sweeteners,g/capita/day
+2007,2.573180419,Protein,Vegetables,g/capita/day
+2008,90.2066185,Calories,Alcoholic beverages,kcal/capita/day
+2008,508.5709196,Calories,Animal products,kcal/capita/day
+2008,103.4180312,Calories,Fruits,kcal/capita/day
+2008,1105.71115,Calories,Grains,kcal/capita/day
+2008,9.074137363,Calories,Miscellaneous,kcal/capita/day
+2008,346.3761317,Calories,Oils,kcal/capita/day
+2008,63.34878534,Calories,Pulses,kcal/capita/day
+2008,23.42177104,Calories,Spices & stimulants,kcal/capita/day
+2008,179.3965017,Calories,Starchy roots,kcal/capita/day
+2008,282.4725318,Calories,Sweeteners,kcal/capita/day
+2008,55.28927293,Calories,Vegetables,kcal/capita/day
+2008,0.053333864,Fat,Alcoholic beverages,g/capita/day
+2008,35.63820836,Fat,Animal products,g/capita/day
+2008,0.624217576,Fat,Fruits,g/capita/day
+2008,7.243810089,Fat,Grains,g/capita/day
+2008,0.100679016,Fat,Miscellaneous,g/capita/day
+2008,36.71371991,Fat,Oils,g/capita/day
+2008,0.328824086,Fat,Pulses,g/capita/day
+2008,1.286525101,Fat,Spices & stimulants,g/capita/day
+2008,0.290886818,Fat,Starchy roots,g/capita/day
+2008,0.010526316,Fat,Sweeteners,g/capita/day
+2008,0.445718409,Fat,Vegetables,g/capita/day
+2008,131.5798301,Food Weight,Alcoholic beverages,g/capita/day
+2008,491.5957423,Food Weight,Animal products,g/capita/day
+2008,225.2111862,Food Weight,Fruits,g/capita/day
+2008,358.4714408,Food Weight,Grains,g/capita/day
+2008,0,Food Weight,Miscellaneous,g/capita/day
+2008,68.25857118,Food Weight,Oils,g/capita/day
+2008,18.68295803,Food Weight,Pulses,g/capita/day
+2008,14.04155995,Food Weight,Spices & stimulants,g/capita/day
+2008,208.3867212,Food Weight,Starchy roots,g/capita/day
+2008,88.64114422,Food Weight,Sweeteners,g/capita/day
+2008,213.5949027,Food Weight,Vegetables,g/capita/day
+2008,0.716660574,Protein,Alcoholic beverages,g/capita/day
+2008,34.35874959,Protein,Animal products,g/capita/day
+2008,1.174603913,Protein,Fruits,g/capita/day
+2008,27.99450615,Protein,Grains,g/capita/day
+2008,0.313136095,Protein,Miscellaneous,g/capita/day
+2008,2.544861142,Protein,Oils,g/capita/day
+2008,4.105619384,Protein,Pulses,g/capita/day
+2008,1.01250216,Protein,Spices & stimulants,g/capita/day
+2008,2.626638981,Protein,Starchy roots,g/capita/day
+2008,0.018421053,Protein,Sweeteners,g/capita/day
+2008,2.570300253,Protein,Vegetables,g/capita/day
+2009,88.21340186,Calories,Alcoholic beverages,kcal/capita/day
+2009,507.800211,Calories,Animal products,kcal/capita/day
+2009,104.1480174,Calories,Fruits,kcal/capita/day
+2009,1118.360782,Calories,Grains,kcal/capita/day
+2009,9.119158722,Calories,Miscellaneous,kcal/capita/day
+2009,348.6220999,Calories,Oils,kcal/capita/day
+2009,64.89607792,Calories,Pulses,kcal/capita/day
+2009,23.62155857,Calories,Spices & stimulants,kcal/capita/day
+2009,177.8015293,Calories,Starchy roots,kcal/capita/day
+2009,280.6038097,Calories,Sweeteners,kcal/capita/day
+2009,55.37310494,Calories,Vegetables,kcal/capita/day
+2009,0.051443673,Fat,Alcoholic beverages,g/capita/day
+2009,35.64898671,Fat,Animal products,g/capita/day
+2009,0.641903434,Fat,Fruits,g/capita/day
+2009,7.246086774,Fat,Grains,g/capita/day
+2009,0.103850697,Fat,Miscellaneous,g/capita/day
+2009,36.97129656,Fat,Oils,g/capita/day
+2009,0.341975831,Fat,Pulses,g/capita/day
+2009,1.273127557,Fat,Spices & stimulants,g/capita/day
+2009,0.291324742,Fat,Starchy roots,g/capita/day
+2009,0.010526316,Fat,Sweeteners,g/capita/day
+2009,0.446109897,Fat,Vegetables,g/capita/day
+2009,129.2244085,Food Weight,Alcoholic beverages,g/capita/day
+2009,488.9806419,Food Weight,Animal products,g/capita/day
+2009,226.3713226,Food Weight,Fruits,g/capita/day
+2009,362.789802,Food Weight,Grains,g/capita/day
+2009,0,Food Weight,Miscellaneous,g/capita/day
+2009,68.70728414,Food Weight,Oils,g/capita/day
+2009,19.10236571,Food Weight,Pulses,g/capita/day
+2009,14.16434942,Food Weight,Spices & stimulants,g/capita/day
+2009,206.686919,Food Weight,Starchy roots,g/capita/day
+2009,88.09612851,Food Weight,Sweeteners,g/capita/day
+2009,215.8145721,Food Weight,Vegetables,g/capita/day
+2009,0.697212551,Protein,Alcoholic beverages,g/capita/day
+2009,34.18974852,Protein,Animal products,g/capita/day
+2009,1.194848461,Protein,Fruits,g/capita/day
+2009,28.2946566,Protein,Grains,g/capita/day
+2009,0.310544338,Protein,Miscellaneous,g/capita/day
+2009,2.562652581,Protein,Oils,g/capita/day
+2009,4.19430088,Protein,Pulses,g/capita/day
+2009,1.013228017,Protein,Spices & stimulants,g/capita/day
+2009,2.611289544,Protein,Starchy roots,g/capita/day
+2009,0.017763158,Protein,Sweeteners,g/capita/day
+2009,2.563546831,Protein,Vegetables,g/capita/day
